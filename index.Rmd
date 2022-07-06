@@ -35,6 +35,7 @@ favicon: "favicon.ico"
 description: "Painlessly quit pornography immediately, without willpower or any sense of deprivation or sacrifice."
 ---
 
+
 # Introduction
 
 <h3>Note</h3>
@@ -44,12 +45,6 @@ EasyPeasy is available in more and more languages. If you want to help, contact 
 Do you prefer reading in another language?
 
 - zur [deutschen Version](de/index.html)
-
-
-
-![Cover Image](images/easypeasy.jpg){width=45% height=45%}
-
-[Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
 
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
@@ -139,7 +134,7 @@ You might find this impossible to believe, but this sentiment is echoed by many 
 
 If you're expecting this book to ’scare’ you into quitting using the various health issues users risk, such as sexual dysfunction (including porn-induced erectile dysfunction), unreliable arousal, loss of interest in real sex partners, brain hypofrontality, and the blinding accusation that it's a filthy, disgusting habit and *you* are a stupid, spineless, weak-willed jellyfish, you’ll be sorely disappointed. Those tactics never helped me to quit and if they were going to help you, you'd have quit already.
 
-Conventional methods of quitting advocate using willpower, or 'porn-diet' substitution methods such as 'using once every *n* days' and cutting down consumption. Some sites list peer-reviewed research about neurotransmitters and neuroplasticity, and while these sites are informative, many are aware of the health risks and choose to do nothing, though such material is typically avoided. Ultimately, are equally ineffective as they don't actually remove the reasons for using porn. Ultimately, turning something into a forbidden fruit isn't how you treat addiction.
+Conventional methods of quitting advocate using willpower, or 'porn-diet' substitution methods such as 'using once every *n* days' and cutting down consumption. Some sites list peer-reviewed research about neurotransmitters and neuroplasticity, and while these sites and informative, many are aware of the health risks and choose to do nothing, though such material is typically avoided. Ultimately, are equally ineffective as they don't actually remove the reasons for using porn. Ultimately, turning something into a forbidden fruit isn't how you treat addiction.
 
 This method, referred to as EasyPeasy, works differently. Some of the things about to be said might be difficult to believe, but by the time you've finished this book, you’ll not only believe them, you’ll wonder how you could have ever been brainwashed into believing otherwise.
 
