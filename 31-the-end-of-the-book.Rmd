@@ -1,158 +1,186 @@
-# The End of the Book
+# The End of The Book
 
-Hey mate, Hackauthor² again. Firstly, thank you so incredibly much for reading this book. Freedom is incredible isn't it! The original Hackauthor's book changed my life, and it's been smooth sailing ever since. Would just like to reiterate how much of a top bloke Allen Carr is, who has helped countless others escape the addiction trap.
+Thank you for reading; as you know, it fills me with a sincere joy that you've found freedom.
 
-message for you, thanks for finishing the book :o)
+I dream of a world where you didn't have to.
 
-```{r}
-knitr::include_url("https://www.youtube.com/embed/mYDHeb-ax3k")
-```
+A world where you began questioning pornography before finding it, noticing the effects you'd learnt in school.
 
-in case it doesn't embed (PDF), here's the linl: <https://youtu.be/mYDHeb-ax3k>
+Where someone mentioning their favourite pornstar was met with that 'awkward social mistep' vibe, but immediately followed by a sincere desire to help.
 
-**hypercommunication** to try and beam point into your brain:
+One where everyone was a little less on edge; working together with local communities that are more sustainable, closer and considerate.
 
-free from porn now what? ||| computer bad lmao, go outside. chat with irl friends instead of online strangers (preferrably in person if possible). << discord, reddit, video games, etc makes you more lonely due to social skill killing feedback loop + dopamine desensitisation >> // find better things to care about than porn, change world around you instead of complaining -- you can accomplish a lot, especially with friends! when has top down revolution ever worked -- change starts with you!! campaign locally about issues you care about ||| other traps: nicotine, alcohol (yes, very deep brainwashing. ZERO benefits), caffeine, social media and tech. stop being fortnite playing tiktok consuming zoomer peaking doubledoors with AWP, actually do something. spend time with people you love. you need purpose, drive and dedication. meditate, weightlift, be emotionally vulnerable in relationships, and stop consuming so much xx
+We're not as far off as you think.
 
+## Where are we now? {-}
 
-EasyPeasy is *far* from perfect and is slowly being rewritten. Ideally, it should be a clear and concise method for freeing yourself once and for all. I'll be combining lessons from CBT, other addiction books and community resources to make a clear and concise guide written in simple language. Ideally, you should be able to give the book to someone who knows absolutely nothing about porn's harmful effects and it was educate and cure them in the one go. Am busy with other projects for the next little bit, (like https://preferences.org.au and a book about computer addiction) but rest assured, it'll get done. No timeline yet xx (prolly early 2022).
+You exist where pornography has normalised into culture, media and everyday life. Rest assured this will not stand: the science is absolute, and all that stands with time must be based on truth.
 
-## How can I help out EasyPeasy?
+You're witnessing a social shift against it; online communities, celebrated abstience months and conversations push the snowball -- but how long do you wish to wait?
 
-Improve the book.
+It's August 2022 and the upcoming 'No Nut November' is our best shot at significantly changing the world, then continuing that push.
 
-:   EasyPeasy is open source and written in R Markdown. If you notice an improvement, it's very easy to change and you can find a [video guide on how to do so here] NOT DONE YET!!
+## How so? {-}
 
-Translate it!
+Before November 2022, you'll have:
 
-:   It is impossible to express my gratitude that people are willing to translate this book and help free others. Here's a [comprehensive video guide on setting up RStudio and publishing a translation.] NOT DONE YET!!
+	* A new easypeasy -- resembling a chat, not just a rewrite of a rewrite
+	* A toolkit for sharing the message online and locally (posters, wacko schemes, etc)
+	* Enough online and media attention for catapulting it globally.
 
+All open source, with crowdsourced translations (semi-automatically too) and a joy to read.
 
-Donate to the school letter writing campaign
+Our goals are simple:
 
-:   I'm sending physical letters to as many schools as possible and begging them to educate against pornography. If we don't write the future, it will be written by the porn industry.
+1. By the end of 2023, pornography education should be mandatory in all sexual education programs. There's simply no time to lose.
+2. By the end of 2024, pornography is opt-in and age-restricted at the service provider level so that young children may avoid it.
+3. By the end of 2025, Allen Carr's EasyWay should be at the forefront of nicotine campaigns.
 
-Here's a video explaining what's happening and [here's the letter that will be sent to as many schools as possible](https://easypeasymethod.org/resources/principal.pdf).
+## How can I help? {-}
 
-```{r}
-knitr::include_url("https://www.youtube.com/embed/MqNQppcaFB4")
-```
+Right now I'm crafting online communities to coordinate themselves.
 
-link if it doesn't embed (like in a pdf): <https://youtu.be/MqNQppcaFB4>
+You can use the following platforms.
 
-***I must emphasise*** that I don't need or want your money. The following cryptocurrency addresses will be used to send letters to schools.
+**[Urbit](https://urbit.org/understanding-urbit) ~mogsub-possum/coomer** -- you can find guides on [joining the network] and [using it] here.
 
-- Wownero (WOW): coming soon
-- Monero (XMR): just put in easypeasymethod.org (832m3v5m5Up6qQM4YbejN6Vre2AQS4fDd3ZG1QM2hZM39DG1iv1RPPkFuvwe37az4yCnKkN8dqcq3cUSRDHrLBgeSfi5Cpk)
-- Etherium (ETH): 0x1c5FCD3AF9C25f9302408Ec3CfAee5551E747571
-- Bitcoin (BTC): bc1qxeeqt99msekjgy39erlhfck9kjzkawc93lgzp3
+**[Matrix]** -- if you're having problems connecting to Urbit.
 
-You're also welcome to send [this modified letter] (WRITING NOW) to your local school district, or write your own!
+**[Discord]** -- which is currently just shitposting central that I don't bother checking, but I'm working in the background with people to turn it into something cool.
 
-## Moving forward
+**[Email]** -- where you can sign up to get very occasional emails from me
 
-It's true that you mustn't change your life ***purely*** because you've stopped. But freedom from any addiction will allow you to build the life you didn't know you wanted.
+So if you're anyone, from anywhere, with any skillset or amount of time spare, you'll be able to help freeing others.
 
-Am actively writing a book about breaking and moving past computer addiction through self-cultivation. It's my own writing, and will work very differently to EasyPeasy. Whilst that's being written, here are some resources that helped me once I'd escaped from porn.
+It's not ready yet because it all has to be perfectly structure, but you can join the various channels now and chat.
 
-### Additional trap escaping
+### What about you? {-}
 
-Please be mindful that the following things are addictive, if you found EasyPeasy useful, please support the authors of these books too!
+Frankly speaking, I'm planning on appearing in online and traditional media during No Nut November.
 
-Nicotine
+I don't want to be an influencer or anything, but getting an audience is the best way of directing people into sustainability, community building and education projects. Also, I'm simply enjoying making calm videos.
 
-:   EasyWay's original topic was smoking, and later, vaping. Nicotine is one of of the most addictive chemicals known the man. If you use nicotine, the same method applies, but if you can afford it, please consider supporting EasyWay by buying their books. They use the money to help addicts!
+I'd better introduce myself then.
 
-Alcohol
+My name's Fraser, and I'm a 23 year old psychology student from Australia, but right now -- August 2022 -- I'm living on an Alaskan farm.
 
-:   Everyone I know, including myself, would've regarded me as a casual drinker. I never had any form of problem with alcohol, but decided in late 2020 to quit it, just for a year, saying to my friends: *"There's plenty of time in the future to drink, so why not get the relationship squared away from the beginning?*". After discussing EasyPeasy with one of my university mentees, he recommended *Kick the Drink... Easily* by Jason Vale (who worked with Allen Carr), which helped him a lot (as he experienced alcoholism). I decided to give it a read to help a friend in the same boat.
-:   Like EasyPeasy, *Kick the Drink... Easily* places no pressure on you, and I walked in fully expecting not to quit -- it'd just give me some considerations. After reading, I can safely say that I'll *never* drink ever again and am proud to be a non-drinker. To summarise (and in no way do the book justice) alcohol has a 10 day withdrawal, which is reinforced because most people drink every weekend. Just like how there's no such thing as a porn addict -- just varying degrees of addiction -- so to, alcoholics. Admitting you're not in control generates more fear, alongside publicly labelling you as an 'alcoholic', which encourages you to overlook it.
-:   After quitting (escaping) I have found social occasions infinitely more pleasant. We're conditioned to believe that feeling drunk is pleasant, but once you start removing the brainwashing, you quickly find it's anything but. It's a poisonous depressant, leaving you physically and mentally worse off. You're not really yourself, you're stupified, with your inhibitions lowered. It doesn't relieve stress, relax you, make you more social or give you courage. By escaping, it means you'll never have to wake up with a hangover, or seeing your bank account drained, or be left wondering what you said to someone.
-:   Alcohol has fooled people for generations and it's time to change the narrative. Consider how many lives have been ruined because of alcohol? Cowards punches, glassing, drink driving, relationship problems and infinitely more. Please, if you take anything from this section, it's to read this book. You can find a [long winded, rambly video about my unremarkable story of qutting alcohol here](https://www.youtube.com/watch?v=fk8AF8wW0Sc).
+*Please don't feel pressured into following me*, but y'know, little bit of pressure because it gives me more 'clout' so that I can say to podcasts and stuff "hey mate mind if I pop on?"
 
-Caffeine
+So here's where I exist online.
 
-:   Same trap as porn. It's a stimulant, so you get a boost for about a week, but after that it's fully negated by withdrawal. You'll feel better, I promise xx.
+**yt:** [Fraser Patterson](https://www.youtube.com/channel/UChMZhvS7eV-WoLDu_mRjEEw) -- Posting calm videos about my life, and little wisdom nuggets
 
-Social media (especially outage) and technology
+**ig:** [@deleteinstaplease](https://instagram.com/deleteinstaplease) -- Occasionally, pictures of nature, or what I'm doing.
 
-:   Social media is designed to resemble a slot machine. Constant bombardment of information reduces your ability to concentrate, handle stress and your mood. More insidiously, it places your self worth in arbitrary value systems. But more importantly, what emotion are you feeling when you’re reading this paragraph? Is it fear?
-:   Like every social media user, you’ve been lured into the most sinister, subtle trap that man and nature have combined to devise (the addiction trap). Reflect, did you ever make the conscious ‘positive’ decision that you needed social media, you needed it permanently in your life, feeling insecure, even panic stricken without it?
-:   Yeah, humans aren't built for endless novelty. It's chemically addictive, and there are infinitely better things to do with your time. Always keep in mind what can be accomplished through focusing your attention, campaign local issues you care about, such as sustainability, sex education and others. Never complain, be proactive and ask yourself how you'll influence the world around you. Remember, when has top down revolution ever worked? -- change starts with you.
-:   Read: *Smart Phone, Dumb Phone* by John Dicey (EasyWay), *Ten Arguments for Deleting Your Social Media Right Now* and [*Exiting Modernity*](https://meta-nomad.net/exiting-modernity) by Meta-Nomad.
+**tw:** [@deletetwitpls](https://twitter.com/deletetwitpls) -- I don't post here.
 
-### Positve change
+**tok:** https://tiktok.com/@deletetoktokplease -- I don't post or use this.
 
-**Relationships**
+## Wisdom Nuggets {-}
 
-Freedom from pornography will likely open questions on relationships. If you're having dating and relationship difficulties - and even if you aren't - **huge recommend** on *Models* by Mark Manson which discusses vulnerability in relationships. I am equally happy to not fall into the pick-up-artist or incel traps either, it's really not healthy, don't @ me.
+Quitting porn is the easy part, the 'hard' part is the journey ahead.
 
-**Short Sightedness**
+Here's some things that might help you on it.
 
-If you have myopia (can't see long) it's completely curable. No laser surgery, eye excercises or magic eye vitamins, just retraining the muscle in your eye using this thing called active focus (basically eye shuttersnap). Myopia comes from too much close up, putting glasses on makes eye muscle weaker, more glasses, cycle repeats. Optometry is unironically (mostly) a scam, and they know this is happening (leaked sales documents, plus many academics discussing). Watch [this video] and consider buying an [endmyopia](https://endmyopia.org) course. My mate [Lance Kozma](https://www.youtube.com/channel/UCLvkYd7iYVcsp1Ax6Zm1xIg) [top bloke, check him out] recommends [Myopia is Mental](https://www.youtube.com/watch?v=p_rfeALgMCU) instead, and says that endmyopia utilises your tendancy for scrolling and redirects it into eye information instead. Might be useful if you have trouble understanding active focus. I have no skin in the game as my eyes are okay.
+If feeling you're **tech addicted,** understand that your thoughts match life's speed. Slow down your life through experiencing nature, and dry fasting for 24h in a dark room.
 
-**Meditation**
+This isn't a 'cure all', but gives you time to think and peace with your thoughts.
 
-Meditation has been shilled previously, but please do give it a try. It's not a religious thing in any way, and it's important to separate meditation -- the practice of noticing thought -- from any preconceived Buddhist notions.
-Don't get any kickbacks from this, but personally recommend the *Waking Up* app and course, and you get get a free month of it at the below link. Sam Harris is such a great bloke that if you can't afford it you can request a free year, no questions asked.
-<https://share.wakingup.com/a13290>
+Speaking of which, **mindfulness meditation** was recommended before.
 
-**Sleep**
+Meditating is the practice of understanding how your mind always is. Thoughts continually arise, and pass away.
 
-*Why we Sleep** is a great book about, you guessed it, sleep. Highly recommend. On a different note, did you know the best way of preventing jetlag is fasting and drinking minimal water sixteen hours before waking up? It's not just for jetlag, if you’ve knocked your circadian rhythm out of wack for any reason, like staying up late looking at porn, it might help.
+You'll be thinking about porn -- of course -- and meditating helps recognising them as just that: thoughts.
 
-**Exercise**
+I'd highly recommend getting a [free month of Waking Up](
+I'm not getting paid for recommending this, it's just a really, really great app. Would highly recommend the introductory course first, then some Alan Watts and Wisdom Texts by Jayasara. All very beautiful experiences.
 
-Exercise has many benefits for your physical and mental health. My go to book on the subject is *The Leangains Method* by Martin Berkhan. For anyone of any age, weightlifting is pretty much the way to go for keeping yourself healthy and well. Even if you don't have access to gym equipment, you can still make great progress with a bodyweight routine (the reddit one is actually pretty good).
+Of course, **breathwork** would help even still.
 
-**Anti-consumption**
+I'd recommend Bukeuko and Wim Hof breathing techniques.
 
-My favourite piece of text at current is [Exiting Modernity](https://www.meta-nomad.net/exiting-modernity/) by Meta Nomad. It critiques many of the assumptions we make within modern life, and provides a way to unceremoneously exit. It's only 30 pages, but be warned -- it's honestly quite a confronting document, but it's an enlightening experience if you let it be one.
+For now, put one hand on your belly, and one on your chest.
 
-> *"Too late isn't an age or time; too late is when fatigue leads to submission and you forget yourself completely, a potential human dissolved into nothingness*"
+Then, breathe in whilst sticking out your lips in an O shape (yes.. haha xd!!)
+
+You'll feel your diaphagm activate, which how you were naturally breathing as a baby. It's better for you in every way, and requires less effort from your body.
+
+You picked up shallow breathing because everyone else is doing it, and we naturally mirror people.
+
+Sound familiar?
+
+Well, on addictions there's no doubt you'd enjoy quitting...
+
+**Alcohol!**
+
+Alongside creating a 10 day withdrawal, alcohol succeeds in 'stupifing' drinkers and doesn't give you enjoyment, confidence, courage or relaxation.
+
+Jason Vale's book *Kick the Drink... Easily!" deconstructs alcohol fully and completely. He argues that there's no such thing as an alcoholic -- people who 'lose control' (of an addictive void) are just stigmatised and shunned -- and that quitting is extremely easy.
+
+I quit alcohol after PMO, and I've found life and social occassions genuinely much more enjoyable without it.
+
+A drug for numbing and poisoning yourself is very 'boomer', don't you think?
+
+But perhaps everyone is simply victims of...
+
+**Consumption.**
+
+To which I'll simply provide a quote.
+
 >
-> --- Meta Nomad, [*Exiting Modernity*](https://meta-nomad.net/exiting-modernity)
+>
+...
 
-Ultimately the suggestions above are just that -- suggestions. What would you like to accomplish? You're free from this awful trap and can use this gift however you wish.
+>*I don’t often enjoy nor find much use in excessive deconstruction, but the act of contemporary entertainment begs such a process to drag it to court. Because that’s what most people forget when they’re watching TV or scrolling through their phone, it is an act, they are performing an action, however banal and mind-numbing it may be. Any action performed consistently eventually becomes a habit, at least in a certain sense, whether you like it or not. And at its root the action you are performing when one is engrossed within contemporary entertainment is apathy. That’s right, man has found a way to not only be actively apathetic, but also has found a way to cultivate this behaviour in such a way that it has become a virtue – “Bro, I spent all weekend watching Netflix!” Let’s take this apart, let’s have a look at how man decides to spend the life he has been given-*
+>
+>*There is a man or woman, plonked on a sofa. Their body in a strange unnatural position, all folded up and round, no point taking any more weight than any other, they’re a big pile of goo. They will remain here, just sat, in the same 4ft by 4ft space for hours end – the world is way bigger than this by the way – they’ll move their arm, maybe reposition, but that’s about it for using their body. As for their mind, it is quite literally working at its lowest setting. Unlike reading, learning, meditating, practicing or concentrating, contemporary acts of entertainment require nothing from the viewer, apart from one thing, that they stare in a certain direction. They are mediums of apathy. One could, if they so wished, be numbed all over, except for their eyes, and they would still be undertaking the act of being ‘entertained’, that is how pathetic this act is. I have nothing against what is on the TV, nor anything against visual media, what I am against is media which is a means to an end. People no longer like TV shows or specific films, they like Netflix, or watching-TV as a whole. They’re favorite pastimes are being apathetic to all that they can be. It is once again a question of whether or not you ever desired this in the first place, or has someone else decided this is the normal desire to have?*
 
-## Thank you
+--- Meta Nomad, [Exiting Modernity](https://www.meta-nomad.net/exiting-modernity/)
 
-Again, thank you for taking a chance and reading this book. I hope it helps, and it really does mean a lot. Right now, the neurons inside your brain are linking in a unique way, and it's important to keep feeding that. Reread the book as often as you need to; many people forget that removing the brainwashing is -- at least initially -- an active process, and relapse when they forget lessons. Take a moment to make a solemn vow that you'll never watch pornography again, for any reason. There's no guarrentee that the book will work twice, though admittably it has for many people. It's much easier to keep yourself within this mindset than break it and work to get back into it.
+Spending less time in front of screens (alongside some eye learning) also improves...
 
-If you do relapse, here's the [escape route] I posted on Discord a while back:
+**Short-sightedness.**
 
-Follow these steps in order.
-0. Read https://thelastpsychiatrist.com/2011/04/the_abusive_boyfriend.html
-1. Read these two reddit posts by u/Different_Guide_5205
-	- [Why you're relapsing](https://old.reddit.com/r/pmohackbook/comments/mynwjl/why_youre_relapsing/)
-	- [Countering Fear](https://old.reddit.com/r/pmohackbook/comments/n5027n/countering_fear/gxe2a8a/)
-2. Read [Freedom Forever](https://sites.google.com/view/freeforever/home) also written by u/Different_Guide_5205
-3. *Optional*: Watch episode 5 of *"Hot Girls Wanted: Turned On"* (available on Netflix) entitled Take Me Private (optional at your discretion to see a glimpse of hell as there's some nudity).
+Most cases of myopia (can't see long) are perfectly curable.
 
-Most important point: you are intellectualing using an irrational argument due to fear.
+In short, too much close up weakens an eye muscle. Putting glasses in front weakens it even more, and now you need stronger glasses. You can retrain this muscle.
 
-[end escape route]
+Check out,
 
-The pornographic hydra has grown beyond control. While societal response has been slow, you must be optimistic, as every person escaping accelerates the snowball.
+- [EndMyopia](https://endmyopia.org)
+- [Myopia is Mental](https://www.myopiaismental.com/)
+- [Visions of Joy](https://visionsofjoy.org)
 
-Finally, here are the links from the start of the book in case you'd like to share your experiences.
+You also don't need to spend money curing...
 
-[urbit](https://urbit.org) - ~mislyr-midnyt/coomer (best possible contact method, use this pls) | [coomer meme archive](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [feedback form](https://forms.gle/p7cTxowaNpKqgi5Z7)
+**Baldness.**
 
-You can also find me on [YouTube](https://www.youtube.com/channel/UChMZhvS7eV-WoLDu_mRjEEw), where your support is appreciated :o)
+As you can cure many cases using simple scalp massaging.
 
-If you're having trouble applying the lessons contained within this book, your best bet is posting on the discord or subreddit, where you will find a community of supportive people who are happy to answer any questions you might have. They'll slowly but surely be retired in favour of [Urbit](https://urbit.org), which is a replacement for all of computing and the internet itself. That sounds insane, but it's actually legit. Please see [this video where I explain why this has to happen](https://www.youtube.com/watch?v=vMZrrDzKOZo).
+Well, according to a mate of mine who's often finding things that "sound like bullcrap but are actually true".
 
-If you'd like to contact me, please note that I aim to be intentionally hard to reach. If you have an offer, opportunity or introduction that would make my life more interesting, please send through an email to **interesting [the at symbol] easypeasymethod.org**, or message me on Urbit at ~mislyr-midnyt. For the reasons stated above, I'll only respond to proposals that are a good fit for my schedule and interests.
+He recommends <https://perfecthairhealth.com>, and also...
 
-If you'd like you can also
+**Mercury Detoxification.**
 
-<span style="font-size:xx-large;">[sign up to receive very occasional emails from me](https://forms.gle/p7cTxowaNpKqgi5Z7)</span>
+Which he said worked for him.
 
-it would be great to let you know about updates to the hackbook and potential initiatives to free more people from the trap (sending physical letters to schools) and some of my other projects (https://preferences.org.au).
+In short, you get mercury from the environment (sometimes), amalgam fillings and even in the womb, and it's a really heavy (and toxic) metal that your body can't get rid of.
 
-Cheers mate,
+You can, however, go through a 'chelation' process described in "The Mercury Detoxification Handbook" to get rid of it.
 
-[Fraser Patterson](https://fraserpatterson.id.aut)
+He says not everyone is affected, but it's just good to consider: especially if you're having strange health problems.
 
-p.s: there's still actually one more chapter containing some additional resources x
+Anyway, on **intimate relationships** I'd recommend three books:
+
+- *Models: Attract Women Through Honesty* by Mark Manson for understanding emotional vulnerability and removing neediness.
+- *The Rational Male* by Rollo Tomassi, which is useful for avoiding toxic relationships.
+- *The Way of The Superior Man* by David Dieda, giving a more spirital understanding of masculine, feminine and balanced energies. Pretty 'new-agey' but it's right.
+
+and also, to send you sincere peacefulness. You've just freed yourself from a terrible disease. Look upon the world with fresh eyes and renewed meaning, and always enjoy the ride.
+
+Welcome to the rest of your life.
+
+Warm wishes,
+
+[Fraser Patterson](https://fraserpatterson.au)
