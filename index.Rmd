@@ -46,7 +46,9 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 <h3>Note</h3>
 
-EasyPeasy is available in more and more languages. If you want to help, contact us. 
+EasyPeasy is available in more and more languages.
+
+[Want to help?](https://forms.gle/kqyxzuXWyZibF7GX8)
 
 Do you prefer reading in another language?
 
