@@ -1,14 +1,14 @@
 ---
 title: "EasyPeasy"
 author: "English (original) - by Hackauthor² <br/> translated into <br/>
-[German](de/index.html) - by Tim Budweg <br/>
+[German](de/index.html) // ([PDF](https://easypeasymethod.org/de/easypeasy.pdf)) - by Tim Budweg <br/>
 and <br/>
-[Spanish](https://easypeasyespanol.github.io/),<br/>
-[French](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view),<br/>
-[Portuguese](https://metodofacil.org/),<br/>
-[Hungarian](https://sites.google.com/view/jarhatout),<br/>
-[Arabic](https://drive.google.com/file/d/1_bWwEcHYycXu5grwiQLtpJgaVwWNMW2s/view?usp=sharing),<br/>
-[Turkish](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/)<br/>
+[Spanish](https://easypeasyespanol.github.io/) // ([PDF](https://easypeasyespanol.github.io/easypeasyespanol.pdf)),<br/>
+[French](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([PDF](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view)),<br/>
+[Portuguese](https://metodofacil.org/) // ([PDF](https://drive.google.com/file/d/1Ox0hXcOFNQeSErWhxYPlrRW0TtblTLrD/view?usp=sharing)),<br/>
+[Hungarian](https://sites.google.com/view/jarhatout) // ([PDF](https://drive.google.com/file/d/1ATSiHFo1P4ZsIhYYYuMVRb0ap9_yl3Jv/view?usp=sharing)),<br/>
+[Arabic](https://drive.google.com/file/d/1_bWwEcHYycXu5grwiQLtpJgaVwWNMW2s/view?usp=sharing) // ([PDF](https://drive.google.com/file/d/1_bWwEcHYycXu5grwiQLtpJgaVwWNMW2s/view?usp=sharing)),<br/>
+[Turkish](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([PDF](https://drive.google.com/file/d/1ruzSKSZ9g9n5VcyVqAJSNnEcw9beKDHy/view?usp=sharing))<br/>
 by their respective translators"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -53,13 +53,13 @@ EasyPeasy is available in more and more languages.
 
 Do you prefer reading in another language?
 
-- [zur deutschen Version](de/index.html)
-- [leer en español](https://easypeasyespanol.github.io/)
-- [lire en français](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view)
-- [ler em português](https://metodofacil.org/)
-- [olvassa el magyarul](https://sites.google.com/view/jarhatout)
-- [قراءة باللغة العربية](https://drive.google.com/file/d/1_bWwEcHYycXu5grwiQLtpJgaVwWNMW2s/view?usp=sharing)
-- [türkçe oku](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/)
+- [zur deutschen Version](de/index.html) // ([pdf](https://easypeasymethod.org/de/easypeasy.pdf))
+- [leer en español](https://easypeasyespanol.github.io/) // ([pdf](https://easypeasyespanol.github.io/easypeasyespanol.pdf))
+- [lire en français](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([pdf](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view))
+- [ler em português](https://metodofacil.org/) // ([pdf](https://drive.google.com/file/d/1Ox0hXcOFNQeSErWhxYPlrRW0TtblTLrD/view?usp=sharing))
+- [olvassa el magyarul](https://sites.google.com/view/jarhatout) // ([pdf](https://drive.google.com/file/d/1ATSiHFo1P4ZsIhYYYuMVRb0ap9_yl3Jv/view?usp=sharing))
+- [قراءة باللغة العربية](https://drive.google.com/file/d/1_bWwEcHYycXu5grwiQLtpJgaVwWNMW2s/view?usp=sharing) // ([pdf](https://drive.google.com/file/d/1_bWwEcHYycXu5grwiQLtpJgaVwWNMW2s/view?usp=sharing))
+- [türkçe oku](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([pdf](https://drive.google.com/file/d/1ruzSKSZ9g9n5VcyVqAJSNnEcw9beKDHy/view?usp=sharing))
 
 
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
