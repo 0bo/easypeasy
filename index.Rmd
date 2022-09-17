@@ -7,7 +7,8 @@ and <br/>
 [French](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view),<br/>
 [Portuguese](https://metodofacil.org/),<br/>
 [Hungarian](https://sites.google.com/view/jarhatout),<br/>
-[Arabic](https://drive.google.com/file/d/1_bWwEcHYycXu5grwiQLtpJgaVwWNMW2s/view?usp=sharing)<br/>
+[Arabic](https://drive.google.com/file/d/1_bWwEcHYycXu5grwiQLtpJgaVwWNMW2s/view?usp=sharing),<br/>
+[Turkish](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/)<br/>
 by their respective translators"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -58,6 +59,7 @@ Do you prefer reading in another language?
 - [ler em português](https://metodofacil.org/)
 - [olvassa el magyarul](https://sites.google.com/view/jarhatout)
 - [قراءة باللغة العربية](https://drive.google.com/file/d/1_bWwEcHYycXu5grwiQLtpJgaVwWNMW2s/view?usp=sharing)
+- [türkçe oku](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/)
 
 
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
