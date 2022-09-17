@@ -1,7 +1,7 @@
 ---
 title: "EasyPeasy"
 author: "English (original) - by Hackauthor² <br/> translated into <br/>
-[German](de/index.html) // ([PDF](https://easypeasymethod.org/de/easypeasy.pdf)) - by Tim Budweg <br/>
+[German](de/index.html) // ([PDF](de/easypeasy.pdf)) - by Tim Budweg <br/>
 and <br/>
 [Spanish](https://easypeasyespanol.github.io/) // ([PDF](https://easypeasyespanol.github.io/easypeasyespanol.pdf)),<br/>
 [French](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([PDF](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/lamethodeeasypeasy.pdf)),<br/>
@@ -53,7 +53,7 @@ EasyPeasy is available in more and more languages.
 
 Do you prefer reading in another language?
 
-- [zur deutschen Version](de/index.html) // ([pdf](https://easypeasymethod.org/de/easypeasy.pdf))
+- [zur deutschen Version](de/index.html) // ([pdf](de/easypeasy.pdf))
 - [leer en español](https://easypeasyespanol.github.io/) // ([pdf](https://easypeasyespanol.github.io/easypeasyespanol.pdf))
 - [lire en français](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/lamethodeeasypeasy.pdf))
 - [ler em português](https://metodofacil.org/) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/metodofacil.pdf))
