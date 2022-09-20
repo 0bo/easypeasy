@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "English (original) - by Hackauthor² <br/> translated into <br/>
+author: "English (original) // ([PDF](easypeasy.pdf)) - by Hackauthor² <br/> translated into <br/>
 [German](de/index.html) // ([PDF](de/easypeasy.pdf)) - by Tim Budweg <br/>
 and <br/>
 [Spanish](https://easypeasyespanol.github.io/) // ([PDF](https://easypeasyespanol.github.io/easypeasyespanol.pdf)),<br/>
