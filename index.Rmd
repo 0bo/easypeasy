@@ -9,7 +9,7 @@ and <br/>
 [Hungarian](https://sites.google.com/view/jarhatout) // ([PDF](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/ajarhatout.pdf)),<br/>
 [Arabic](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyar.pdf) // ([PDF](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyar.pdf)),<br/>
 [Turkish](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([PDF](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyturkce.pdf))<br/>
-by their listed translators"
+(by their listed translators)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
