@@ -45,22 +45,17 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 # Introduction
 
-<h3>Note</h3>
+[
 
-EasyPeasy is available in more and more languages.
-
-[Want to help?](https://forms.gle/kqyxzuXWyZibF7GX8)
-
-Do you prefer reading in another language?
-
-- [zur deutschen Version](de/index.html) // ([pdf](de/easypeasy.pdf))
-- [leer en español](https://easypeasyespanol.github.io/) // ([pdf](https://easypeasyespanol.github.io/easypeasyespanol.pdf))
-- [lire en français](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/lamethodeeasypeasy.pdf))
-- [ler em português](https://metodofacil.org/) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/metodofacil.pdf))
+-- [german](de/index.html) // ([pdf](de/easypeasy.pdf))
+- [español](https://easypeasyespanol.github.io/) // ([pdf](https://easypeasyespanol.github.io/easypeasyespanol.pdf))
+- [français](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/lamethodeeasypeasy.pdf))
+- [português](https://metodofacil.org/) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/metodofacil.pdf))
 - [olvassa el magyarul](https://sites.google.com/view/jarhatout) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/ajarhatout.pdf))
 - [قراءة باللغة العربية](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyar.pdf) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyar.pdf))
 - [türkçe oku](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyturkce.pdf))
 
+[Want to help translating?](https://forms.gle/kqyxzuXWyZibF7GX8)
 
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
 
