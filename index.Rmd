@@ -1,15 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "English (original) // ([PDF](easypeasy.pdf)) - by Hackauthor² <br/> translated into <br/>
-[German](de/index.html) // ([PDF](de/easypeasy.pdf)) - by Tim Budweg <br/>
-and <br/>
-[Spanish](https://easypeasyespanol.github.io/) // ([PDF](https://easypeasyespanol.github.io/easypeasyespanol.pdf)),<br/>
-[French](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([PDF](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/lamethodeeasypeasy.pdf)),<br/>
-[Portuguese](https://metodofacil.org/) // ([PDF](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/metodofacil.pdf)),<br/>
-[Hungarian](https://sites.google.com/view/jarhatout) // ([PDF](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/ajarhatout.pdf)),<br/>
-[Arabic](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyar.pdf) // ([PDF](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyar.pdf)),<br/>
-[Turkish](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([PDF](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyturkce.pdf))<br/>
-(by their listed translators)"
+author: "Hackauthor²"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
@@ -47,7 +38,8 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 EasyPeasy is available in multiple languages.
 
-- [deutsch](de/index.html) // ([pdf](de/easypeasy.pdf))
+- [english](index.html) // ([pdf](easypeasy.pdf)) - by Hackauthor²
+- [deutsch](de/index.html) // ([pdf](de/easypeasy.pdf)) - by Tim Budweg
 - [español](https://easypeasyespanol.github.io/) // ([pdf](https://easypeasyespanol.github.io/easypeasyespanol.pdf))
 - [français](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/lamethodeeasypeasy.pdf))
 - [português](https://metodofacil.org/) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/metodofacil.pdf))
