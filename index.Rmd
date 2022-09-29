@@ -40,12 +40,12 @@ EasyPeasy is available in multiple languages.
 
 - [english](index.html) // ([pdf](easypeasy.pdf)) - by Hackauthor²
 - [deutsch](de/index.html) // ([pdf](de/easypeasy.pdf)) - by Tim Budweg
-- [español](https://easypeasyespanol.github.io/) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyespanol.pdf))
-- [français](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/lamethodeeasypeasy.pdf))
-- [português](https://metodofacil.org/) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/metodofacil.pdf))
-- [magyar](https://sites.google.com/view/jarhatout) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/ajarhatout.pdf))
-- [العربية](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyar.pdf) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyar.pdf))
-- [türkçe](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([pdf](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyturkce.pdf))
+- [español](https://easypeasyespanol.github.io/) // ([pdf](resources/easypeasy_es.pdf))
+- [français](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([pdf](resources/easypeasy_fr.pdf))
+- [português](https://metodofacil.org/) // ([pdf](resources/easypeasy_pt.pdf))
+- [magyar](https://sites.google.com/view/jarhatout) // ([pdf](resources/easypeasy_hu.pdf))
+- [العربية](https://gitlab.com/snuggy/easypeasy/-/raw/master/translations/easypeasyar.pdf) // ([pdf](resources/easypeasy_ar.pdf))
+- [türkçe](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([pdf](resources/easypeasy_tr.pdf))
 
 [Want to help translating?](https://forms.gle/kqyxzuXWyZibF7GX8)
 
