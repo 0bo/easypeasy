@@ -38,7 +38,7 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 EasyPeasy is available in multiple languages.
 
-- [english](index.html) // ([pdf](easypeasy.pdf)) - by Hackauthor²
+- [english](index.html) // ([pdf](easypeasy.pdf)) - (original) by Hackauthor²
 - [deutsch](de/index.html) // ([pdf](de/easypeasy.pdf)) - by Tim Budweg
 - [español](https://easypeasyespanol.github.io/) // ([pdf](resources/easypeasy_es.pdf))
 - [français](https://drive.google.com/file/d/1eCD_I5xpb8Nl3kMFIxVDNX8KI-WM5zPz/view) // ([pdf](resources/easypeasy_fr.pdf))
