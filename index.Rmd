@@ -53,6 +53,7 @@ EasyPeasy is available in multiple languages.
 - greek (in progress)
 - romanian (in progress)
 - norwegian (in progress)
+- bosnian (in progress)
 
 [Want to help translating?](https://forms.gle/kqyxzuXWyZibF7GX8)
 
