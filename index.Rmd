@@ -49,7 +49,6 @@ EasyPeasy is available in multiple languages.
 - italian (in progress)
 - russian (in progress)
 - hebrew (in progress)
-- hindi (in progress)
 - serbian (in progress)
 - greek (in progress)
 - romanian (in progress)
