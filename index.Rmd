@@ -54,6 +54,7 @@ EasyPeasy is available in multiple languages.
 - romanian (in progress)
 - norwegian (in progress)
 - bosnian (in progress)
+- polish (in progress)
 
 [Want to help translating?](https://forms.gle/kqyxzuXWyZibF7GX8)
 
