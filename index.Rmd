@@ -59,6 +59,7 @@ EasyPeasy is available in multiple languages.
 - swedish (in progress)
 - indonesian (in progress)
 - thai (in progress)
+- japanese (in progress)
 
 [Want to help translating?](https://forms.gle/kqyxzuXWyZibF7GX8)
 
