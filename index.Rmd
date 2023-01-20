@@ -40,6 +40,7 @@ EasyPeasy is available in multiple languages.
 
 - [english](index.html) // ([pdf](easypeasy.pdf)) - (original) by Hackauthor²
 - [deutsch](de/index.html) // ([pdf](de/easypeasy.pdf)) - by Tim Budweg
+- [italiano](it/index.html) // ([pdf](it/easypeasy.pdf)) - by DavF23
 - [español](https://easypeasyespanol.github.io/) // ([pdf](translations/easypeasy_es.pdf))
 - [français](translations/easypeasy_fr.pdf) // ([pdf](translations/easypeasy_fr.pdf))
 - [português](https://metodofacil.org/) // ([pdf](translations/easypeasy_pt.pdf))

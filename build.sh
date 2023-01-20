@@ -2,10 +2,20 @@
 Rscript -e "bookdown::render_book('index.Rmd', 'all')"
 
 # Build German version
-mkdir -p _book/de
-cd translations/de/
-Rscript -e "bookdown::render_book('index.Rmd', 'all')"
-cp -r _book/* ../../_book/de/
+(
+    mkdir -p _book/de
+    cd translations/de/
+    Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+    cp -r _book/* ../../_book/de/
+)
+
+# Build Italian version
+(
+    mkdir -p _book/it
+    cd translations/it/
+    Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+    cp -r _book/* ../../_book/it/
+)
 
 # # French Version
 # mkdir -p _book/fr
