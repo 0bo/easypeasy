@@ -12,7 +12,7 @@ output:
         theme: night
         family: sans
         size: 2
-      edit : https://gitlab.com/snuggy/easypeasy/-/blob/master/%s
+      edit : https://gitlab.com/snuggy/easypeasy/-/blob/master/translations/de/%s
     includes:
       in_header: header.html
     fig_caption: false
