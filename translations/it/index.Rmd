@@ -42,7 +42,7 @@ editor_options:
     wrap: sentence
 ---
 
-# Introduction
+# Introduzione
 
 ![Cover Image](images/easypeasy.jpg){width="45%" height="45%"}
 
@@ -82,6 +82,7 @@ Se sei qui per una persona cara, non devi fare altro che convincerla a leggere q
 Ma se non riesci a persuaderli, leggi tu stesso il libro.
 Capire il metodo aiuta a trasmettere il messaggio e ad evitare che i tuoi figli inizino.
 Non lasciarti ingannare dal fatto che non ne hanno accesso ora: tutti ne hanno accesso prima di diventare dipendenti.
+
 ## Sul libro {-}
 
 Questo libro è una versione riscritta di una [riscrittura](https://sites.google.com/site/hackbookeasypeasy) di *Allen Carr's EasyWay to Smoking* per la pornografia, è gratis e open source e concesso in licenza CC-BY-SA.
