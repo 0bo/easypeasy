@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "Hackauthor²"
+author: "Chris Miller"
 date: "`r Sys.Date()`"
 lang: pl
 site: bookdown::bookdown_site
