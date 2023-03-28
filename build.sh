@@ -1,3 +1,6 @@
+Rscript -e "install.packages('tinytex')"
+Rscript -e "tinytex::install_tinytex(force = TRUE)"
+
 # Build English version
 Rscript -e "bookdown::render_book('index.Rmd', 'all')"
 
