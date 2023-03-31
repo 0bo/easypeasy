@@ -28,6 +28,14 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
     cp -r _book/* ../../_book/pl/
 )
 
+# Build Swedish version
+(
+    mkdir -p _book/sv
+    cd translations/sv/
+    Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+    cp -r _book/* ../../_book/sv/
+)
+
 # # French Version
 # mkdir -p _book/fr
 # cd translations/fr/
