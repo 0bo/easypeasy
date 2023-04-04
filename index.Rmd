@@ -49,6 +49,7 @@ EasyPeasy is available in multiple languages.
 - [العربية](translations/easypeasy_ar.pdf) // ([pdf](translations/easypeasy_ar.pdf))
 - [türkçe](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([pdf](translations/easypeasy_tr.pdf))
 - [فارسی](translations/easypeasy_fa.pdf) // ([pdf](translations/easypeasy_fa.pdf))
+- [polski](translations/easypeasy_pl.pdf) // ([pdf](translations/easypeasy_pl.pdf))
 
 [Want to help translating?](translations/howtotranslate.pdf)
 
