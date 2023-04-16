@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "Norman"
+author: "[English (original) by Hackauthor²](../index.html) <br/> Swedish translation by **Norman**"
 lang: sv
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

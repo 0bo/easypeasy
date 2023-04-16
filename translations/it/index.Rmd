@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "DavF23"
+author: "[English (original) by Hackauthor²](../index.html) <br/> Italian translation by **DavF23**"
 date: "`r Sys.Date()`"
 lang: it
 output:
@@ -43,8 +43,6 @@ editor_options:
 ---
 
 # Introduzione
-
-- ([The English version here](../index.html))
 
 ![Cover Image](images/easypeasy.jpg){width="45%" height="45%"}
 
