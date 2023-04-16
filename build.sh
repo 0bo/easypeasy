@@ -1,3 +1,8 @@
+# Install fonts
+cp Arial.TTF /usr/local/share/fonts/
+fc-cache -fv
+
+# Install tinytex
 Rscript -e "install.packages('tinytex')"
 Rscript -e "tinytex::install_tinytex(force = TRUE)"
 
