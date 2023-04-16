@@ -37,8 +37,6 @@ description: "Sluta med porr snabbt och smärtfritt utan att använda viljestyrk
 
 # Introduktion
 
-- ([The English version here](../index.html))
-
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
 
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
