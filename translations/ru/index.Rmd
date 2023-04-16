@@ -33,7 +33,7 @@ cover-image: "images/easypeasy.png"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon.ico"
-description: "Безболезненно и незамедлительно бросить порнонрафию без силы воли, жертв и чувства лишения."
+description: "Безболезненно и незамедлительно бросить порнографию без силы воли, жертв и чувства лишения."
 ---
 
 # Предисловие
