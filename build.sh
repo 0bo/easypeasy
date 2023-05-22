@@ -41,6 +41,14 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
     cp -r _book/* ../../_book/ru/
 )
 
+# Build Somali version
+(
+    mkdir -p _book/so
+    cd translations/so/
+    Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+    cp -r _book/* ../../_book/so/
+)
+
 # # French Version
 # mkdir -p _book/fr
 # cd translations/fr/
