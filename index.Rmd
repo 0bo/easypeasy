@@ -93,7 +93,7 @@ But if unable to persuade them, read the book yourself. Understanding the method
 ## About the book {-}
 
 This book is a rewritten version of a [rewrite](https://sites.google.com/site/hackbookeasypeasy
-) of *Allen Carr's EasyWay to Smoking* for pornography, it's free and open source and licensed under CC-BY-SA. It's success rests on the foundation that you:
+) of *Allen Carr's EasyWay to Quit Smoking* for pornography, it's free and open source and licensed under CC-BY-SA. Its success rests on the foundation that you:
 
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
 
