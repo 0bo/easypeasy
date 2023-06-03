@@ -26,7 +26,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-url: 'https\://easypeasymethod.org/'
+url: 'https\://book.easypeasymethod.org/'
 cover-image: "images/easypeasy.png"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
