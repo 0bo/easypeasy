@@ -1,0 +1,158 @@
+# Slutet på boken
+
+Hej kompis, Hackauthor² här igen. Först och främst vill jag tacka dig så otroligt mycket för att du har läst den här boken. Visst är friheten helt otrolig? Den ursprungliga hackboken förändrade mitt liv och sedan dess har det varit en lugn och smidig resa. Jag vill bara upprepa vilken toppenkille Allen Carr är. Han har hjälpt många andra att ta sig ur missbruksfällan.
+
+Meddelande till dig, tack för att du läste färdigt boken :o)
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/mYDHeb-ax3k")
+```
+
+Om det inte går att bädda in (PDF), här är link: <https://youtu.be/mYDHeb-ax3k>
+
+**hyperkommunikation** för att försöka stråla in punkt i din hjärna:
+
+fri från porr vad händer nu? ||| Gå ut och prata med vänner irl i stället för främlingar på nätet (helst personligen om möjligt). << discord, reddit, videospel, etc. gör dig mer ensam på grund av den feedbackloop som dödar sociala färdigheter + dopamin-överkänslighet >> // hitta bättre saker att bry dig om än porr, förändra världen runt omkring dig i stället för att klaga -- du kan åstadkomma så mycket, särskilt tillsammans med dina vänner! När har någonsin en revolution uppifrån och ner fungerat -- förändringen börjar med dig!!! Kampanja lokalt om frågor som du bryr dig om ||| andra fällor: nikotin, alkohol (ja, mycket djup hjärntvätt. NOLL fördelar), koffein, sociala medier och teknik. Sluta vara en TikTok-konsumerande Fortnite-missbrukare och gör något på rikigt. Umgås med människor du älskar. Hitta ditt syfte, din drivkraft och ditt engagemang. Meditera, styrketräna, var känslomässigt sårbar i dina relationer och sluta konsumera så mycket skit.
+
+
+EasyPeasy är *långt* ifrån perfekt och håller långsamt på att skrivas om. Helst ska det vara en tydlig och kortfattad metod för att befria sig själv en gång för alla. Jag kommer att kombinera lärdomar från KBT, andra böcker om missbruk och resurser från samhället för att göra en tydlig och kortfattad guide skriven på ett enkelt språk. Helst ska man kunna ge boken till någon som inte vet någonting om porrens skadliga effekter och den ska både utbilda och bota dem på en och samma gång. Jag har fullt upp med andra projekt den närmaste tiden, (som https://preferences.org.au och en bok om datorberoende) men du kan vara säker på att den ska bli klar. Ingen tidslinje ännu xx (troligen i början av 2022).
+
+## Hur kan jag hjälpa EasyPeasy?
+
+Förbättra boken.
+
+:   EasyPeasy är öppen källkod och skriven i R Markdown. Om du märker en förbättring är det mycket lätt att ändra och du kan hitta en [videoguide om hur man gör det här] ÄNNU INTE KLAR!
+
+Översätt den!
+
+:   Det är omöjligt att uttrycka min tacksamhet över att människor är villiga att översätta den här boken och hjälpa till att befria andra. Här finns en [omfattande videoguide om hur man ställer in RStudio och publicerar en översättning]. ÄNNU INTE KLAR!
+
+
+Donera till skolbrevskampanjen
+
+:   Jag skickar fysiska brev till så många skolor som möjligt och ber dem att utbilda om porr. Om vi inte skriver framtiden kommer den att skrivas av porrindustrin.
+
+Här är en video som förklarar vad som händer och [här är brevet som kommer att skickas till så många skolor som möjligt] (https://easypeasymethod.org/resources/principal.pdf).
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/MqNQppcaFB4")
+```
+
+Länk om den inte bäddas in (som i en pdf): <https://youtu.be/MqNQppcaFB4>
+
+***Jag måste betona*** att jag varken behöver eller vill ha dina pengar. Följande kryptovalutaadresser kommer att användas för att skicka brev till skolor.
+
+- Wownero (WOW): kommer snart
+- Monero (XMR): har just lagts in på easypeasymethod.org (832m3v5m5Up6qQM4YbejN6Vre2AQS4fDd3ZG1QM2hZM39DG1iv1RPPkRPPkFuvwe37az4yCnKkN8dqcq3cUSRDHrLBgeSfi5Cpk)
+- Etherium (ETH): 0x1c5FCD3AF9C25f9302408Ec3CfAee5551E747571
+- Bitcoin (BTC): bc1qxeeqt99msekjgy39erlhfck9kjzkawc93lgzp3
+
+Du får också gärna skicka [detta ändrade brev] (SKRIV NU) till ditt lokala skoldistrikt, eller skriva ett eget!
+
+## Att gå vidare
+
+Det är sant att du inte får förändra ditt liv ***enbart*** för att du har slutat. Men friheten från alla typer av missbruk kommer att göra det möjligt för dig att bygga upp det liv du inte visste att du ville ha.
+
+Jag skriver aktivt på en bok om att bryta och förflytta sig förbi datorberoende genom självkultivering. Det är min egen skrift och kommer att fungera mycket annorlunda än EasyPeasy. Medan den skrivs finns här några resurser som hjälpte mig när jag väl hade tagit mig ur porrlivet.
+
+#### Ytterligare fällor för att fly från
+
+Tänk på att följande saker är beroendeframkallande.Om du tyckte att EasyPeasy var användbar, stöd då också författarna till dessa böcker!
+
+Nikotin
+
+:   EasyWays ursprungliga ämne var rökning, och senare även förbränning. Nikotin är ett av de mest beroendeframkallande kemiska ämnen man känner till. Om du använder nikotin gäller samma metod, men om du har råd med det kan du överväga att stödja EasyWay genom att köpa deras böcker. De använder pengarna för att hjälpa missbrukare!
+
+Alkohol
+
+:   Alla jag känner, mig själv inkluderad, skulle ha betraktat mig som en tillfällig drickare. Jag har aldrig haft några problem med alkohol, men i slutet av 2020 bestämde jag mig för att sluta med det i ett år och sa till mina vänner: *"Det finns gott om tid att dricka i framtiden, så varför inte få ordning på förhållandet från början?*" Efter att ha diskuterat EasyPeasy med en av mina adepter vid universitetet rekommenderade han *Kick the Drink... Easily* av Jason Vale (som arbetade med Allen Carr). Den hade hjälpt honom mycket (eftersom han själv hade erfarenhet av alkoholism). Jag valde att läsa boken för att hjälpa en vän som var i samma sits.
+:   Liksom EasyPeasy sätter *Kick the Drink... Easily* ingen press på dig, och jag slukades upp i den helt och hållet med förväntningarna att inte sluta -- den skulle bara ge mig några tankar. Efter att ha läst boken kan jag med säkerhet säga att jag *aldrig* kommer att dricka igen och att jag är en stolt icke-drickare. För att sammanfatta (och på inget sätt göra boken rättvisa) har alkohol en 10 dagars abstinens, vilket förstärks eftersom de flesta människor dricker varje helg. På samma sätt som det inte finns porrmissbrukare -- bara olika grader av missbruk -- gäller detsamma för alkoholister. Att erkänna att man inte har kontroll skapar mer rädsla, tillsammans med att man offentligt stämplas som "alkoholist", vilket uppmuntrar en att förbise det.
+:   Efter att ha slutat (flyttat) har jag funnit sociala tillfällen oändligt mycket trevligare. Vi är konditionerade att tro att det är trevligt att känna sig berusad, men när man börjar ta bort hjärntvätten upptäcker man snabbt att det är allt annat än det. Det är ett giftigt depressivt medel som gör att man mår sämre både fysiskt och psykiskt. Du är inte riktigt dig själv, du är bedövad och dina hämningar är sänkta. Det lindrar inte stress, du slappnar inte av, gör dig inte mer social och ger dig inte mod. Genom att fly innebär det att du aldrig behöver vakna upp med baksmälla, eller se ditt bankkonto tömt, eller stå och undra vad du sa till någon.
+:   I generationer har alkoholen lurat människor, och det är dags att förändra narrativet. Tänk på hur många liv som har förstörts på grund av alkohol? Rävslag, glashuggningar, rattfylleri, relationsproblem och oändligt många fler. Snälla, om du tar med dig något från det här avsnittet är det att läsa den här boken. Du hittar en [långdragen, spretig video om min oansenliga berättelse om att ha slutat med alkohol här] (https://www.youtube.com/watch?v=fk8AF8wW0Sc).
+
+Koffein
+
+:   Samma fälla som porr. Det är en stimulant, så du får en boost i ungefär en vecka, men som sedan helt och hållet motverkas av abstinensen. Du kommer att må bättre, jag lovar xx.
+
+Sociala medier (särskilt avbrott) och teknik
+
+:   Sociala medier är utformade för att likna en spelautomat. Ett konstant bombardemang av information minskar din koncentrationsförmåga, din förmåga att hantera stress och ditt humör. Mer försåtligt är att det placerar ditt egenvärde i godtyckliga värderingssystem. Men ännu viktigare: Vilken känsla känner du när du läser detta stycke? Är det rädsla?
+:   Liksom alla användare av sociala medier har du lurats in i den mest ondskefulla och subtila fälla som människan och naturen tillsammans har skapat (beroendefällan). Reflektera över om du någonsin fattade det medvetna "positiva" beslutet att du behövde sociala medier, att du behövde dem permanent i ditt liv, att du kände dig osäker och till och med panikslagen utan dem?
+:   Ja, människor är inte byggda för oändliga nyheter. Det är kemiskt beroendeframkallande och det finns oändligt mycket bättre saker att göra med din tid. Tänk alltid på vad som kan åstadkommas genom att fokusera din uppmärksamhet, kampanja lokala frågor som du bryr dig om som till exempel hållbarhet, sexualupplysning m.m. Klaga aldrig, var proaktiv och fråga dig själv hur du kan påverka världen omkring dig. Kom ihåg, när har revolutionen uppifrån och ner någonsin fungerat? -- Förändring börjar med dig.
+:   Läs: *Smart Phone, Dumb Phone* av John Dicey (EasyWay), *Ten Arguments for Deleting Your Social Media Right Now* och [*Exiting Modernity*] (https://meta-nomad.net/exiting-modernity) av Meta-Nomad.
+
+### Positva förändringar
+
+**Relationer**
+
+Frihet från porr kommer sannolikt att öppna frågor om relationer. Om du har dejting- och relationssvårigheter - och även om du inte har det - så **rekommenderar jag starkt** *Models* av Mark Manson som diskuterar sårbarhet i relationer. Jag är också lika glad över att inte falla i pick-up-artist- eller incelfällorna heller, det är verkligen inte hälsosamt.
+
+**Närsynthet**
+
+Om du har myopi (inte kan se på långt håll) så går det att bota helt och hållet. Inga laseroperationer, ögonövningar eller magiska ögonvitaminer, utan bara en omskolning av din ögonmuskel genom något som kallas aktiv fokusering (i princip ögonluckor). Närsynthet kommer från för mycket närbilder, att sätta på sig glasögon gör ögonmuskeln svagare, du behöver starkare glasögon och cykeln upprepas. Optometri är helt oironiskt (mestadels) en bluff, och de vet att detta händer (läckta försäljningsdokument, plus många akademiker som diskuterar detta). Titta på [den här videon] och överväg att köpa en [endmyopi] (https://endmyopia.org) kurs. Min kompis [Lance Kozma](https://www.youtube.com/channel/UCLvkYd7iYVcsp1Ax6Zm1xIg) [en toppenkille, kolla in honom] rekommenderar istället [Myopia is Mental](https://www.youtube.com/watch?v=p_rfeALgMCU), och säger att endmyopi utnyttjar din tendens att scrolla och omdirigerar den till ögoninformation istället. Kan vara användbart om du har svårt att förstå aktivt fokus. Jag har inget att säga till om eftersom mina ögon är okej.
+
+**Meditation**
+
+Vi har redan talat om meditation, men ge det gärna ett försök. Det är inte religiöst på något sätt, och det är viktigt att skilja meditation -- utövandet av att lägga märke till tankar -- från alla förutfattade buddhistiska föreställningar.
+Jag tjänar inga pengar på det här, men jag rekommenderar personligen appen och kursen *Waking Up*, och du kan få en gratis månad av den på länken nedan. Sam Harris är en så bra kille att om du inte har råd kan du begära ett gratis år, utan att ställa några frågor.
+<https://share.wakingup.com/a13290>
+
+**Sleep**
+
+*Why we Sleep** är en fantastisk bok om, du gissade rätt, sömn. Rekommenderas varmt. För övrigt, visste du att det bästa sättet att förebygga jetlag är att fasta och dricka minimalt med vatten sexton timmar innan du vaknar? Det är inte bara för jetlag, om du har fått din dygnsrytm ur balans av någon anledning, till exempel om du har varit uppe sent och tittat på porr, kan det hjälpa.
+
+**Övningar**
+
+Motion har många fördelar för din fysiska och psykiska hälsa. Min favoritbok i ämnet är *The Leangains Method* av Martin Berkhan. För alla i alla åldrar är tyngdlyftning i stort sett det bästa sättet att hålla sig frisk och välmående. Även om du inte har tillgång till gymutrustning kan du göra stora framsteg med en kroppsviktsrutin (den på reddit är faktiskt ganska bra).
+
+**Anti-konsumtion**
+
+Min favorittext för närvarande är [Exiting Modernity] (https://www.meta-nomad.net/exiting-modernity/) av Meta Nomad. Den kritiserar många av de antaganden vi gör i det moderna livet och ger ett sätt att obevekligt ta sig ur det. Det är bara 30 sidor, men var försiktig - det är ärligt talat ett ganska konfronterande dokument, men det är en upplysande upplevelse om man låter det vara en sådan.
+
+> *"För sent är inte en ålder eller tid; för sent är när trötthet leder till underkastelse och man glömmer sig själv helt och hållet, en potentiell människa som upplösts i ingenting*".
+>
+> --- Meta Nomad, [*Exiting Modernity*] (https://meta-nomad.net/exiting-modernity)
+
+I slutändan är förslagen ovan bara just det - förslag. Vad skulle du vilja åstadkomma? Du är fri från denna hemska fälla och kan använda denna gåva som du vill.
+
+## Tack.
+
+Återigen tack för att du tog chansen att läsa den här boken. Jag hoppas att den hjälper dig, vilket verkligen betyder mycket. Just nu kopplar neuronerna i din hjärna ihop sig på ett unikt sätt, och det är viktigt att fortsätta att ge näring åt det. Läs om boken så ofta du behöver; många människor glömmer att det är en aktiv process att ta bort hjärntvätten -- åtminstone till en början -- och får bakslag när de glömmer lektioner. Ta en stund för att avlägga ett högtidligt löfte om att du aldrig mer kommer att titta på porr, oavsett anledning. Det finns ingen garanti för att boken kommer att fungera två gånger, även om det erkänns att den har gjort det för många människor. Det är mycket lättare att hålla sig inom detta tankesätt än att bryta det och arbeta för att komma tillbaka till det.
+
+Om du skulle få ett återfall är här den [flyktväg] som jag lade ut på Discord för ett tag sedan:
+
+Följ de här stegen i tur och ordning.
+0. Läs https://thelastpsychiatrist.com/2011/04/the_abusive_boyfriend.html
+1. Läs dessa två reddit-inlägg av u/Different_Guide_5205
+	- [Varför du får återfall] (https://old.reddit.com/r/pmohackbook/comments/mynwjl/why_youre_relapsing/)
+	- [Motverka rädsla](https://old.reddit.com/r/pmohackbook/comments/n5027n/countering_fear/gxe2a8a/)
+2. Läs [Freedom Forever](https://sites.google.com/view/freeforever/home) också skriven av u/Different_Guide_5205.
+3. *Optionellt*: Titta på avsnitt 5 av *"Hot Girls Wanted: Turned On "* (finns på Netflix) med titeln Take Me Private (valfritt efter eget gottfinnande för att se en glimt av helvetet eftersom det finns en del nakenhet).
+
+Viktigaste punkten: Du intellektualiserar genom att använda ett irrationellt argument på grund av rädsla.
+
+[slut på flyktvägen]
+
+Den pornografiska hydraen har vuxit bortom all kontroll. Även om samhällets reaktion har varit långsam måste ni vara optimistiska, eftersom varje person som flyr accelererar snöbollen.
+
+Slutligen, här är länkarna från början av boken om du vill dela med dig av dina erfarenheter.
+
+[urbit](https://urbit.org) - ~mislyr-midnyt/coomer (bästa möjliga kontaktmetod, använd denna pls) | [coomer meme archive](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [feedback form](https://forms.gle/p7cTxowaNpKqgi5Z7)
+
+Du kan också hitta mig på [YouTube](https://www.youtube.com/channel/UChMZhvS7eV-WoLDu_mRjEEw), där ditt stöd är uppskattat :o)
+
+Om du har problem med att tillämpa de lärdomar som finns i den här boken är det bästa sättet att skriva på discord eller subreddit, där du hittar en gemenskap av stödjande människor som gärna svarar på alla frågor du kan ha. De kommer sakta men säkert att pensioneras till förmån för [Urbit](https://urbit.org), som är en ersättning för all databehandling och själva internet. Det låter vansinnigt, men det är faktiskt legitimt. Se [den här videon där jag förklarar varför detta måste ske](https://www.youtube.com/watch?v=vMZrrDzKOZo).
+
+Om du vill kontakta mig, observera att jag strävar efter att vara avsiktligt svår att nå. Om du har ett erbjudande, en möjlighet eller en introduktion som skulle göra mitt liv mer intressant, skicka gärna ett mejl till **interesting [the at symbol] easypeasymethod.org**, eller skicka ett meddelande till mig på Urbit på ~mislyr-midnyt. Av de skäl som anges ovan kommer jag endast att svara på förslag som passar bra in i mitt schema och mina intressen.
+
+Om du vill kan du också
+
+<span style="font-size:xx-large;">[registrera dig för att få mycket tillfällig e-post från mig] (https://forms.gle/p7cTxowaNpKqgi5Z7)</span>
+
+Det skulle vara bra om jag kunde informera dig om uppdateringar av hackbook och potentiella initiativ för att befria fler människor från fällan (skicka fysiska brev till skolor) och om några av mina andra projekt (https://preferences.org.au).
+
+Tack, kompis
+
+[Fraser Patterson] (https://fraserpatterson.id.aut)
+
+p.s.: Det finns faktiskt fortfarande ett kapitel till som innehåller ytterligare resurser.

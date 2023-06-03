@@ -2,6 +2,7 @@
 title: "EasyPeasy"
 author: "Hackauthor²"
 date: "`r Sys.Date()`"
+mainfont: Arial
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
@@ -40,18 +41,24 @@ EasyPeasy is available in multiple languages.
 
 - [english](index.html) // ([pdf](easypeasy.pdf)) - (original) by Hackauthor²
 - [deutsch](de/index.html) // ([pdf](de/easypeasy.pdf)) - by Tim Budweg
+- [italiano](it/index.html) // ([pdf](it/easypeasy.pdf)) - by DavF23
+- [svenska](sv/index.html) // ([pdf](sv/easypeasy.pdf)) - by Norman
+- [русский](ru/index.html) // ([pdf](ru/easypeasy.pdf)) - by johnhoth
+- [soomaaliga](so/index.html) // ([pdf](so/easypeasy.pdf)) - by Mohamed Abdulakadir
 - [español](https://easypeasyespanol.github.io/) // ([pdf](translations/easypeasy_es.pdf))
 - [français](translations/easypeasy_fr.pdf) // ([pdf](translations/easypeasy_fr.pdf))
 - [português](https://metodofacil.org/) // ([pdf](translations/easypeasy_pt.pdf))
 - [magyar](https://sites.google.com/view/jarhatout) // ([pdf](translations/easypeasy_hu.pdf))
 - [العربية](translations/easypeasy_ar.pdf) // ([pdf](translations/easypeasy_ar.pdf))
 - [türkçe](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([pdf](translations/easypeasy_tr.pdf))
+- [فارسی](translations/easypeasy_fa.pdf) // ([pdf](translations/easypeasy_fa.pdf))
+- [polski](translations/easypeasy_pl.pdf) // ([pdf](translations/easypeasy_pl.pdf))
 
 [Want to help translating?](translations/howtotranslate.pdf)
 
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
 
-[Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
+[Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3](https://drive.google.com/file/d/1eU5mB7WXuknAMTgeITsF2MZmAEKG5aFE/view) | [MP3 (uncut)](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
 
@@ -86,7 +93,7 @@ But if unable to persuade them, read the book yourself. Understanding the method
 ## About the book {-}
 
 This book is a rewritten version of a [rewrite](https://sites.google.com/site/hackbookeasypeasy
-) of *Allen Carr's EasyWay to Smoking* for pornography, it's free and open source and licensed under CC-BY-SA. It's success rests on the foundation that you:
+) of *Allen Carr's EasyWay to Quit Smoking* for pornography, it's free and open source and licensed under CC-BY-SA. Its success rests on the foundation that you:
 
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
 
