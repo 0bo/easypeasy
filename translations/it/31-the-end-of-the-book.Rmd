@@ -76,7 +76,7 @@ Dona alla campagna di scrittura di lettere per la scuola
 
 Ecco un video che spiega cosa sta succedendo e [ecco la lettera che sarà
 inviata a quante più scuole
-possibile].(<https://easypeasymethod.org/resources/principal.pdf>).
+possibile].(<../resources/principal.pdf>).
 
 ```{r}
 knitr::include_url("https://www.youtube.com/embed/MqNQppcaFB4")

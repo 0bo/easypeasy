@@ -31,7 +31,7 @@ Ku deeq ololaha qorista warqaada iskoolka
 
 :   Waxaan warqaadad jireed u diraayaa iskoolad badan intii suurtogal ah waxaana baryayaa inay porn wax ka baraan. Haddii aanan [iyaga] wax u qorin, warshada porn ayaa qoraayo. 
 
-Halkaan waa muuqaal oo sharaxaya waxa oo dhacooyo iyo [waa kan warqada oo loo diraya iskoolada intii suurtogal ah](https://easypeasymethod.org/resources/principal.pdf).
+Halkaan waa muuqaal oo sharaxaya waxa oo dhacooyo iyo [waa kan warqada oo loo diraya iskoolada intii suurtogal ah](../resources/principal.pdf).
 
 ```{r}
 knitr::include_url("https://www.youtube.com/embed/MqNQppcaFB4")

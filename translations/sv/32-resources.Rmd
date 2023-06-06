@@ -1,6 +1,6 @@
 # Resources {-}
 
-[Meditations of a Porn Addict](https://easypeasymethod.org/resources/meditations.pdf) - Guillaco
+[Meditations of a Porn Addict](../resources/meditations.pdf) - Guillaco
 
 [EasyPeasy Statements Checklist](https://pastebin.com/dybv6qkD) - SWATxKATS
 
@@ -10,7 +10,7 @@
 
 [Exiting Modernity](https://meta-nomad.net/exiting-modernity) - Meta Nomad
 
-[Letter I'm sending to schools](https://easypeasymethod.org/resources/principal.pdf)
+[Letter I'm sending to schools](../resources/principal.pdf)
 
 [Freedom Forever (PMO Hacknotes)](https://sites.google.com/view/freeforever/home)
 

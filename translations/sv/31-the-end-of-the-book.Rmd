@@ -32,7 +32,7 @@ Donera till skolbrevskampanjen
 
 :   Jag skickar fysiska brev till så många skolor som möjligt och ber dem att utbilda om porr. Om vi inte skriver framtiden kommer den att skrivas av porrindustrin.
 
-Här är en video som förklarar vad som händer och [här är brevet som kommer att skickas till så många skolor som möjligt] (https://easypeasymethod.org/resources/principal.pdf).
+Här är en video som förklarar vad som händer och [här är brevet som kommer att skickas till så många skolor som möjligt] (../resources/principal.pdf).
 
 ```{r}
 knitr::include_url("https://www.youtube.com/embed/MqNQppcaFB4")
