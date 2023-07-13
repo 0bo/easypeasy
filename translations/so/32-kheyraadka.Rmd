@@ -2,7 +2,7 @@
 
 **Fiiro gaar ah: Kheyraadka waxay ku qoran yihiin luqadda Ingiriisiga.**
 
-[Meditations of a Porn Addict](resources/meditations.pdf) - Guillaco
+[Meditations of a Porn Addict](../resources/meditations.pdf) - Guillaco
 
 [EasyPeasy Statements Checklist](https://pastebin.com/dybv6qkD) - SWATxKATS
 
@@ -12,7 +12,7 @@
 
 [Exiting Modernity](https://meta-nomad.net/exiting-modernity) - Meta Nomad
 
-[Letter I'm Sending to Schools](resources/principal.pdf)
+[Letter I'm Sending to Schools](../resources/principal.pdf)
 
 [Freedom Forever (Qoraalada PMO)](https://sites.google.com/view/freeforever/home)
 
