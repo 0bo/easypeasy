@@ -39,12 +39,12 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 EasyPeasy is available in multiple languages.
 
-- [english](index.html) // ([pdf](easypeasy.pdf)) - (original) by Hackauthor²
-- [deutsch](de/index.html) // ([pdf](de/easypeasy.pdf)) - by Tim Budweg
-- [italiano](it/index.html) // ([pdf](it/easypeasy.pdf)) - by DavF23
-- [svenska](sv/index.html) // ([pdf](sv/easypeasy.pdf)) - by Norman
-- [русский](ru/index.html) // ([pdf](ru/easypeasy.pdf)) - by johnhoth
-- [soomaaliga](so/index.html) // ([pdf](so/easypeasy.pdf)) - by Mohamed Abdulakadir
+- [english](index.html) // ([pdf](easypeasy.pdf))
+- [deutsch](de/index.html) // ([pdf](de/easypeasy.pdf))
+- [italiano](it/index.html) // ([pdf](it/easypeasy.pdf))
+- [svenska](sv/index.html) // ([pdf](sv/easypeasy.pdf))
+- [русский](ru/index.html) // ([pdf](ru/easypeasy.pdf))
+- [soomaaliga](so/index.html) // ([pdf](so/easypeasy.pdf))
 - [español](https://easypeasyespanol.github.io/) // ([pdf](translations/easypeasy_es.pdf))
 - [français](translations/easypeasy_fr.pdf) // ([pdf](translations/easypeasy_fr.pdf))
 - [português](https://metodofacil.org/) // ([pdf](translations/easypeasy_pt.pdf))
