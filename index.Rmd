@@ -47,6 +47,7 @@ EasyPeasy is available in multiple languages.
 - [magyar](https://sites.google.com/view/jarhatout) // ([pdf](translations/easypeasy_hu.pdf))
 - [polski](translations/easypeasy_pl.pdf) // ([pdf](translations/easypeasy_pl.pdf))
 - [português](https://metodofacil.org/) // ([pdf](translations/easypeasy_pt.pdf))
+- [română](ro/index.html) // ([pdf](ro/easypeasy.pdf))
 - [soomaaliga](so/index.html) // ([pdf](so/easypeasy.pdf))
 - [svenska](sv/index.html) // ([pdf](sv/easypeasy.pdf))
 - [türkçe](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) // ([pdf](translations/easypeasy_tr.pdf))
