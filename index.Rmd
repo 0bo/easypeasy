@@ -51,9 +51,10 @@ EasyPeasy is available in multiple languages.
 - [soomaaliga](so/index.html) / ([pdf](so/easypeasy.pdf))
 - [svenska](sv/index.html) / ([pdf](sv/easypeasy.pdf))
 - [türkçe](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) / ([pdf](translations/easypeasy_tr.pdf))
+- čeština / ([pdf](translations/easypeasy_cs.pdf))
 - [русский](ru/index.html) / ([pdf](ru/easypeasy.pdf))
 - العربية / ([pdf](translations/easypeasy_ar.pdf))
-- فارسی] / ([pdf](translations/easypeasy_fa.pdf))
+- فارسی / ([pdf](translations/easypeasy_fa.pdf))
 
 [Want to help translating?](translations/howtotranslate.pdf)
 
