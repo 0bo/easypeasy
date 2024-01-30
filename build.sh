@@ -57,14 +57,10 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
     cp -r _book/* ../../_book/ro/
 )
 
-# # French Version
-# mkdir -p _book/fr
-# cd translations/fr/
-# Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
-# cp -r _book/* ../../_book/fr/
-
-# # Hugarian Version
-# mkdir -p _book/hu
-# cd translations/hu/
-# Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
-# cp -r _book/* ../../_book/hu/
+# Build Albanian version
+(
+    mkdir -p _book/sq
+    cd translations/sq/
+    Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+    cp -r _book/* ../../_book/sq/
+)
