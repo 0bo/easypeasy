@@ -64,3 +64,11 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
     Rscript -e "bookdown::render_book('index.Rmd', 'all')"
     cp -r _book/* ../../_book/sq/
 )
+
+# Build Dutch version
+(
+    mkdir -p _book/nl
+    cd translations/nl/
+    Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+    cp -r _book/* ../../_book/nl/
+)

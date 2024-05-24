@@ -45,6 +45,7 @@ EasyPeasy is available in multiple languages.
 - français / ([pdf](translations/easypeasy_fr.pdf))
 - [italiano](it/index.html) / ([pdf](it/easypeasy.pdf))
 - [magyar](https://sites.google.com/view/jarhatout) / ([pdf](translations/easypeasy_hu.pdf))
+- [nederlands](nl/index.html) / ([pdf](nl/easypeasy.pdf))
 - polski / ([pdf](translations/easypeasy_pl.pdf))
 - [português](https://metodofacil.org/) / ([pdf](translations/easypeasy_pt.pdf))
 - [română](ro/index.html) / ([pdf](ro/easypeasy.pdf))
