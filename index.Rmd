@@ -48,6 +48,7 @@ EasyPeasy is available in multiple languages.
 - [nederlands](nl/index.html) / ([pdf](nl/easypeasy.pdf))
 - polski / ([pdf](translations/easypeasy_pl.pdf))
 - [português-br](/translations/pt-br/index.html) / ([pdf](/translations/easypeasy_pt_br.pdf))
+- [português-br](pt-br/index.html) / ([pdf](easypeasy_pt_br.pdf))
 - [română](ro/index.html) / ([pdf](ro/easypeasy.pdf))
 - [shqip](sq/index.html) / ([pdf](sq/easypeasy.pdf))
 - [soomaaliga](so/index.html) / ([pdf](so/easypeasy.pdf))
