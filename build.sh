@@ -72,3 +72,11 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
     Rscript -e "bookdown::render_book('index.Rmd', 'all')"
     cp -r _book/* ../../_book/nl/
 )
+
+# Build Brasil Portugueses version
+(
+    mkdir -p _book/pt-br
+    cd translations/pt-br/
+    Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+    cp -r _book/* ../../_book/pt-br/
+)
