@@ -234,7 +234,7 @@ Throughout this book, myself, the original Hackauthor, and Allen Carr will appea
 
 A number of communities exist for the hackbook as well, but would recommend checking them out only after you've finished reading the book.
 
-[urbit](https://urbit.org) - ~mislyr-midnyt/coomer (now actually working!! best possible contact method, use this pls) | [coomer meme archive](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [feedback form](https://forms.gle/p7cTxowaNpKqgi5Z7)
+[urbit](https://urbit.org) - ~racnec-palren/hello | [coomer meme archive](https://coomer.org) ) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [feedback form](https://forms.gle/p7cTxowaNpKqgi5Z7)
 
 Quick reminder: <span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
 
