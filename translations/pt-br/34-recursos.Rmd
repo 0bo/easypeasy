@@ -1,10 +1,3 @@
-# Recursos (em português) {-}
-### Em Português
-
-[Hacknotes](./hacknotes.md)
-
-[AVRT](./AVRT)
-
 # Recursos (em inglês) {-}
 
 [Meditations of a Porn Addict](https://mega.nz/file/DlxiFACJ#FLglnhxnenKVIDn9JVQHI1v_ZGs1yzC3Kvc0mLf13ds) - Guillaco
