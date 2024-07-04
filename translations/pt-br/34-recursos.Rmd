@@ -3,7 +3,7 @@
 
 [Hacknotes](hacknotes)
 
-[AVRT](translations/pt-br/AVRT)
+[AVRT](./AVRT.md)
 
 # Recursos (em inglês) {-}
 
