@@ -1,7 +1,7 @@
 # Recursos (em português) {-}
 ### Em Português
 
-[Hacknotes](hacknotes)
+[Hacknotes](./hacknotes.md)
 
 [AVRT](./AVRT.md)
 
