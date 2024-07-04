@@ -1,9 +1,9 @@
 # Recursos (em português) {-}
 ### Em Português
 
-[Hacknotes](/recursos/hacknotes)
+[Hacknotes](hacknotes)
 
-[AVRT](/recursos/AVRT)
+[AVRT](AVRT)
 
 # Recursos (em inglês) {-}
 
