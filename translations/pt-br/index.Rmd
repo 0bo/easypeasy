@@ -37,7 +37,7 @@ description: "Se livre da pornografia imediatamente, sem precisar de força de v
 
 # Prefácio {-}
 
-<img src="images/easypeasy.jpg" width="350" height="460" alt="Cover image" />
+<img src="images/easypeasy.png" width="350" height="460" alt="Cover image" />
 
 <span style="font-size:larger;">**NÃO PULE CAPÍTULOS**</span>
 
