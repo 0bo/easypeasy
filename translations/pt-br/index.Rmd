@@ -1,6 +1,7 @@
 ---
 title: "Método Fácil"
-author: "HackauthorBR"
+author: "[English (original) by Hackauthor²](../index.html) <br/> Brazilian Portuguese translation by **HackauthorBR**"
+lang: pt
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
@@ -10,7 +11,7 @@ output:
         theme: night
         family: sans
         size: 2
-      edit : https://gitlab.com/snuggy/easypeasy/%s
+      edit : "https://gitlab.com/snuggy/easypeasy/-/blob/master/translations/pt-br/%s"
     includes:
       in_header: header.html
   pdf_document:
@@ -32,8 +33,6 @@ description: "Se livre da pornografia imediatamente, sem precisar de força de v
 # Prefácio {-}
 
 <img src="images/easypeasy.jpg" width="350" height="460" alt="Cover image" />
-
-<!---[RU 🇷🇺](ru/index.html) --->
 
 <span style="font-size:larger;">**NÃO PULE CAPÍTULOS**</span>
 
