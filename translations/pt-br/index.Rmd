@@ -1,6 +1,6 @@
 ---
-title: "Método Fácil"
-author: "[English (original) by Hackauthor²](../index.html) <br/> Brazilian Portuguese translation by **HackauthorBR**"
+title: "EasyPeasy"
+author: "[English (original) by Hackauthor²](../index.html) <br/> Brazilian Portuguese translation by **HackAuthorBR**"
 lang: pt
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -14,16 +14,21 @@ output:
       edit : "https://gitlab.com/snuggy/easypeasy/-/blob/master/translations/pt-br/%s"
     includes:
       in_header: header.html
+    fig_caption: false
   pdf_document:
     includes:
       in_header: preamble.tex
+      toc: true
+      number_sections: true
+      fig_caption: false
+      latex_engine: xelatex
 
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-url: 'https\://easypeasybook.org/'
-cover-image: "images/easypeasy.jpg"
+url: 'https\://easypeasymethod.org/'
+cover-image: "images/easypeasy.png"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon.ico"
