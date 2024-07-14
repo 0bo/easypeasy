@@ -1,0 +1,16 @@
+image: rocker/verse
+
+.bookdown:
+  stage: deploy
+  script:
+    - sh ./build.sh
+    - mv _book public
+  artifacts:
+    paths:
+      - public
+
+pages:
+  extends: .bookdown
+  only:
+    - master
+
