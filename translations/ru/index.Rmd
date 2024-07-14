@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "[English (original) by Hackauthor²](../index.html) <br/> Russian translation by **johnhoth**"
+author: "[English (original) by Hackauthor²](..) <br/> Russian translation by **johnhoth**"
 lang: ru
 mainfont: Arial
 date: "`r Sys.Date()`"

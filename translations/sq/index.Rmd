@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "[English (original) by Hackauthor²](../index.html) <br/> Albanian translation by **Andi Osmani**"
+author: "[English (original) by Hackauthor²](..) <br/> Albanian translation by **Andi Osmani**"
 lang: sq
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

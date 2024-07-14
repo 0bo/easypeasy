@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "[Englisch (original)](../index.html) durch Hackauthor² <br/> übersetzt ins <br/>
+author: "[Englisch (original)](..) durch Hackauthor² <br/> übersetzt ins <br/>
 Deutsche durch Tim Budweg"
 date: "Veröffentlichung: 06.07.2022<br/>aktuelle Version vom [YYYY-MM-DD]: `r Sys.Date()`"
 lang: de
