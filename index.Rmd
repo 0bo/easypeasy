@@ -46,7 +46,7 @@ EasyPeasy is available in multiple languages.
 - [italiano](it) / ([pdf](it/easypeasy.pdf))
 - [magyar](https://sites.google.com/view/jarhatout) / ([pdf](translations/easypeasy_hu.pdf))
 - [nederlands](nl) / ([pdf](nl/easypeasy.pdf))
-- polski / ([pdf](translations/easypeasy_pl.pdf))
+- [polski](pl) / ([pdf](pl/easypeasy.pdf))
 - [português brasileiro](pt-br) / ([pdf](pt-br/easypeasy.pdf))
 - [română](ro) / ([pdf](ro/easypeasy.pdf))
 - [shqip](sq) / ([pdf](sq/easypeasy.pdf))
