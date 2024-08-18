@@ -3,7 +3,6 @@ title: "EasyPeasy"
 author: "Hackauthor²"
 date: "`r Sys.Date()`"
 lang: pl
-mainfont: Arial
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
