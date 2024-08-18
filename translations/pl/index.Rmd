@@ -37,29 +37,6 @@ description: "Bezboleśnie i natychmiastowo porzuć pornografię, bez siły woli
 
 # Wstęp
 
-Książka EasyPeasy jest dostępna w wielu językach.
-
-- [deutsch](de) / ([pdf](de/easypeasy.pdf))
-- english / ([pdf](easypeasy.pdf))
-- [español](https://easypeasyespanol.github.io/) / ([pdf](translations/easypeasy_es.pdf))
-- français / ([pdf](translations/easypeasy_fr.pdf))
-- [italiano](it) / ([pdf](it/easypeasy.pdf))
-- [magyar](https://sites.google.com/view/jarhatout) / ([pdf](translations/easypeasy_hu.pdf))
-- [nederlands](nl) / ([pdf](nl/easypeasy.pdf))
-- [polski](pl) / ([pdf](pl/easypeasy.pdf))
-- [português brasileiro](pt-br) / ([pdf](pt-br/easypeasy.pdf))
-- [română](ro) / ([pdf](ro/easypeasy.pdf))
-- [shqip](sq) / ([pdf](sq/easypeasy.pdf))
-- [soomaaliga](so) / ([pdf](so/easypeasy.pdf))
-- [svenska](sv) / ([pdf](sv/easypeasy.pdf))
-- [türkçe](https://neverfapturkiye.com/konu/pornoyu-birakmanin-kolay-yolu.1259/) / ([pdf](translations/easypeasy_tr.pdf))
-- čeština / ([pdf](translations/easypeasy_cs.pdf))
-- [русский](ru) / ([pdf](ru/easypeasy.pdf))
-- العربية / ([pdf](translations/easypeasy_ar.pdf))
-- فارسی / ([pdf](translations/easypeasy_fa.pdf))
-
-[Chcesz pomóc w tłumaczeniu?](translations/howtotranslate.pdf)
-
 ![Okładka](images/easypeasy.png){width=45% height=45%}
 
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3](https://drive.google.com/file/d/1eU5mB7WXuknAMTgeITsF2MZmAEKG5aFE/view) | [MP3 (uncut)](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
