@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "Hackauthor²"
+author: "[English (original) by Hackauthor²](..) <br/> Polish translation"
 date: "`r Sys.Date()`"
 lang: pl
 site: bookdown::bookdown_site
