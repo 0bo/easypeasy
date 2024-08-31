@@ -1,6 +1,6 @@
 # Install fonts
-cp Arial.TTF /usr/local/share/fonts/
-cp "Songti SC Regular.ttf" /usr/local/share/fonts/
+cp Arial.ttf /usr/local/share/fonts/
+cp Dotum.ttf /usr/local/share/fonts/
 fc-cache -fv
 fc-list
 
