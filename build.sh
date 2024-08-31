@@ -2,6 +2,7 @@
 cp Arial.TTF /usr/local/share/fonts/
 cp "Songti SC Regular.ttf" /usr/local/share/fonts/
 fc-cache -fv
+fc-list
 
 # Install tinytex
 Rscript -e "install.packages('tinytex')"
