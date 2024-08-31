@@ -7,12 +7,3 @@
 %\usepackage[sfdefault,scaled=.90]{FiraSans}
 %\usepackage{newtxsf}
 %\usepackage{ragged2e}
-
-%Korean Chapter Name
-\usepackage{etoolbox}
-\newcommand{\koreangchaptername}[1]{#1장}
-\newcommand{\originalthechapter}\thechapter
-\makeatletter
-\renewcommand{\@chapapp}{}
-\patchcmd{\@makechapterhead}{\thechapter}{\koreangchaptername{\originalthechapter}}{}{}
-\makeatother
