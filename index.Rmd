@@ -57,6 +57,7 @@ EasyPeasy is available in multiple languages.
 - [русский](ru) / ([pdf](ru/easypeasy.pdf))
 - العربية / ([pdf](translations/easypeasy_ar.pdf))
 - فارسی / ([pdf](translations/easypeasy_fa.pdf))
+- [한국어](ko) / ([pdf](ko/easypeasy.pdf))
 
 [Want to help translating?](translations/howtotranslate.pdf)
 

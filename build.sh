@@ -88,3 +88,11 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
     Rscript -e "bookdown::render_book('index.Rmd', 'all')"
     cp -r _book/* ../../_book/pl/
 )
+
+# Build Korean version
+(
+    mkdir -p _book/ko
+    cd translations/ko/
+    Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+    cp -r _book/* ../../_book/ko/
+)
