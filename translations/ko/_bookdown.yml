@@ -2,4 +2,4 @@ book_filename: "easypeasy"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: !expr function(i) paste0(i, '장')
+    chapter_name: !expr function(i) paste0('제', i, '장')
