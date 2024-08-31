@@ -36,8 +36,6 @@ description: "Isla markiiba si xanuun la'aan iyo si joogto u jooji isticmaalka p
 
 # Hordhac
 
-[Nooca Ingiriis (Qoraalka Asalka)](../index.html)
-
 ![Cover Image](images/easypeasy.png){width=45% height=45%}
 
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
