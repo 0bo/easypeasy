@@ -2,7 +2,7 @@
 title: "EasyPeasy"
 author: "[English (original) by Hackauthor²](..) <br/> Korean translation by **symas333**"
 date: "`r Sys.Date()`"
-mainfont: Songti SC Regular
+mainfont: "Songti SC"
 lang: ko
 site: bookdown::bookdown_site
 output:
