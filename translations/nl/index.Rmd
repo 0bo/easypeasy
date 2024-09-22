@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "[English (original) by Hackauthor²](..) <br/> Dutch translation by **Kian**"
+author: "[English (original) by Hackauthor²](..) <br/> Dutch translation by **Hack Auteur**"
 lang: nl
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
