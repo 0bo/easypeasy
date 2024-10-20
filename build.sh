@@ -13,10 +13,12 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
 
 buildtranslation()
 {
-    mkdir -p _book/$1
-    cd translations/$1
-    Rscript -e "bookdown::render_book('index.Rmd', 'all')"
-    cp -r _book/* ../../_book/$1/
+    (
+        mkdir -p _book/$1
+        cd translations/$1
+        Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+        cp -r _book/* ../../_book/$1/
+    )
 }
 
 buildtranslation de # German
