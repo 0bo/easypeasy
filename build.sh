@@ -12,7 +12,7 @@ Rscript -e "tinytex::install_tinytex(force = TRUE)"
 Rscript -e "bookdown::render_book('index.Rmd', 'all')"
 
 # Build EasyPeasy translations
-buildpath=$pwd
+buildpath=`pwd`
 buildtranslation()
 {
     cd $buildpath
