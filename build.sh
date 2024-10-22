@@ -13,22 +13,11 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
 
 # Build EasyPeasy translations
 buildpath=`pwd`
-buildtranslation()
-{
-    cd $buildpath
-    mkdir -p _book/$1
-    cd translations/$1
+for lang in "de it sv ru so ro sq nl pt-br pl ko"
+do
+    mkdir -p _book/$lang
+    cd translations/$lang
     Rscript -e "bookdown::render_book('index.Rmd', 'all')"
-    cp -r _book/* ../../_book/$1/
-}
-buildtranslation de # German
-buildtranslation it # Italian
-buildtranslation sv # Swedish
-buildtranslation ru # Russian
-buildtranslation so # Somali
-buildtranslation ro # Romanian
-buildtranslation sq # Albanian
-buildtranslation nl # Dutch
-buildtranslation pt-br # Brazilian Portuguese
-buildtranslation pl # Polish
-buildtranslation ko # Korean
+    cp -r _book/* ../../_book/$lang/
+    cd $buildpath
+done
