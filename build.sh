@@ -13,7 +13,8 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
 
 # Build EasyPeasy translations
 buildpath=`pwd`
-for lang in "de it sv ru so ro sq nl pt-br pl ko"
+langs="de it sv ru so ro sq nl pt-br pl ko"
+for lang in $langs
 do
     mkdir -p _book/$lang
     cd translations/$lang
