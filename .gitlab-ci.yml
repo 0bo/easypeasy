@@ -3,7 +3,7 @@ image: rocker/verse
 .bookdown:
   stage: deploy
   script:
-    - sh ./build.sh
+    - ./build.sh
     - mv _book public
   artifacts:
     paths:
