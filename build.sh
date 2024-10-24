@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install fonts
 cp Arial.ttf /usr/local/share/fonts/
 cp Dotum.ttf /usr/local/share/fonts/
