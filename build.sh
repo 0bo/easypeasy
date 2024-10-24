@@ -39,13 +39,14 @@ do
     mkdir -p _book/$lang
     cd translations/$lang
     Rscript -e "bookdown::render_book('index.Rmd', 'all')"
-    cp -r _book/* ../../_book/$lang/
     
     
     ############################
     # Rewrite the sidebar
     ############################
     
+    cd _book
+
     log "get the html filenames in proper order by scraping the html nextpage attributes"
     curr="index.html"
     log "$curr"
@@ -265,6 +266,7 @@ do
     # End of rewrite the sidebar
     ############################
     
+    cp -r _book/* ../../_book/$lang/
     
     cd $buildpath
 done
