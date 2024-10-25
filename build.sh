@@ -32,6 +32,7 @@ do
     while IFS= read -r htmlfile
     do
         ullevel="0"
+        firstul="1"
         matches=`grep -Po "(<ul class=\"summary\">)|(<ul)|(</ul)|(<li class=\"chapter.*)" "$htmlfile"`
         while IFS= read -r match
         do
@@ -66,9 +67,10 @@ do
                     then
                         hrefvalue=`grep -Po "(?<=a href=\")(.*?)(?=\")" <<< "$match"`
                         grep -Po "^#" <<< "$hrefvalue" > /dev/null 2>&1
-                        if [ $? -eq 1 ]
+                        if [ $? -ne 0 ]
                         then
                             properhrefvalue="$hrefvalue"
+                            firstul="0"
                             if [ "$ullevel" = "1" ]
                             then
                                 previousproperhrefvalue="$properhrefvalue"
@@ -77,8 +79,14 @@ do
                         else
                             if [ "$ullevel" = "1" ]
                             then
-                                properhrefvalue=`tr -d "#" <<< "$hrefvalue"`
-                                properhrefvalue+=".html"
+                                if [ "$firstul" = "1" ]
+                                then
+                                    properhrefvalue="index.html"
+                                    firstul="0"
+                                else
+                                    properhrefvalue=`tr -d "#" <<< "$hrefvalue"`
+                                    properhrefvalue+=".html"
+                                fi
                                 previousproperhrefvalue="$properhrefvalue"
                             fi
                             if [ "$ullevel" = "2" ]
