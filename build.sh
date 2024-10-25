@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install fonts
 cp Arial.ttf /usr/local/share/fonts/
 cp Dotum.ttf /usr/local/share/fonts/
@@ -19,6 +21,87 @@ do
     mkdir -p _book/$lang
     cd translations/$lang
     Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+
+
+
+    #############################
+    #Fix the HTML sidebars
+    #############################
+    cd _book
+    htmlfiles=`ls -1 | grep -iE '\.hTml'`
+    while IFS= read -r htmlfile
+    do
+        ullevel="0"
+        matches=`grep -Po "(<ul class=\"summary\">)|(<ul)|(</ul)|(<li class=\"chapter.*)" "$htmlfile"`
+        while IFS= read -r match
+        do
+            if [ "$ullevel" != "-1" ]
+            then
+                ulwasset="0"
+                if [ "$match" = "<ul class=\"summary\">" ]
+                then
+                    ullevel="1"
+                    ulwasset="1"
+                fi
+                
+                if [ "$match" = "<ul" ]
+                then
+                    ullevel=$((ullevel+1))
+                    ulwasset="1"
+                fi
+                
+                if [ "$match" = "</ul" ]
+                then
+                    ullevel=$((ullevel-1))
+                    if [ "$ullevel" = "0" ]
+                    then
+                        ullevel="-1"
+                    fi
+                    ulwasset="1"
+                fi
+                
+                if [ "$ullevel" != "-1" ]
+                then
+                    if [ "$ulwasset" = "0" ]
+                    then
+                        hrefvalue=`grep -Po "(?<=a href=\")(.*?)(?=\")" <<< "$match"`
+                        grep -Po "^#" <<< "$hrefvalue" > /dev/null 2>&1
+                        if [ $? -eq 1 ]
+                        then
+                            properhrefvalue="$hrefvalue"
+                            if [ "$ullevel" = "1" ]
+                            then
+                                previousproperhrefvalue="$properhrefvalue"
+                            fi
+                            hrefwasproper="1"
+                        else
+                            if [ "$ullevel" = "1" ]
+                            then
+                                properhrefvalue=`tr -d "#" <<< "$hrefvalue"`
+                                properhrefvalue+=".html"
+                                previousproperhrefvalue="$properhrefvalue"
+                            fi
+                            if [ "$ullevel" = "2" ]
+                            then
+                                properhrefvalue=`tr -d "#" <<< "$hrefvalue"`
+                                properhrefvalue="$previousproperhrefvalue#$properhrefvalue"
+                            fi
+                            hrefwasproper="0"
+                        fi
+                        sed -i "s@$hrefvalue@$properhrefvalue@g" "$htmlfile"
+                    fi
+                fi
+            fi
+        done <<< "$matches"
+    done <<< "$htmlfiles"
+    
+    cd..
+    #############################
+    #End of fix the HTML sidebars
+    #############################
+
+
+
     cp -r _book/* ../../_book/$lang/
     cd $buildpath
 done
