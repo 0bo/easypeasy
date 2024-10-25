@@ -94,8 +94,7 @@ do
             fi
         done <<< "$matches"
     done <<< "$htmlfiles"
-    
-    cd..
+    cd ..
     #############################
     #End of fix the HTML sidebars
     #############################
