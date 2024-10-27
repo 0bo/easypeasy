@@ -88,6 +88,3 @@ do
     cp -r _book/* ../../_book/$lang/
     cd $buildpath
 done
-
-# gnu sed test
-echo 'СТЭК' | sed 's/[[:upper:]]*/\L&/'
