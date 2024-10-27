@@ -70,10 +70,9 @@ do
                 else
                     newheader="$headerunsignaled {-#${sanitizedname}}"
                 fi
-                newfilecontent+="$newheader"
-                newfilecontent+="$newline"
+                newfilecontent+="$newheader$newline"
             else
-                newfilecontent+="$fileline"
+                newfilecontent+="$fileline$newline"
             fi
         done <<< "$filecontent"
         echo "$newfilecontent" > "$rmdfile"
