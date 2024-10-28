@@ -97,6 +97,8 @@ do
         if [ -f "$file" ]
         then
             sed -i $sedargs "$file"
+            newfilename=`sed $sedargs <<< "$file"`
+            mv "$file" "$newfilename" &> /dev/null
         fi
     done
 
