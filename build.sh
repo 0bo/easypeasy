@@ -23,12 +23,21 @@ do
 
 
 
-    ####################################
-    # Rename the markdown headers
-    ####################################
+    ######################################################################
+    # This fixes a problem with Unicode characters in chapter/header
+    # names causing the pages to glitch. This was especially a problem
+    # in the Korean and Russian pages.
+    # What this does is first locally rewrite every markdown file,
+    # writing an ASCII-safe tagname to each header.
+    # Then, after the HTML files are generated, edit the HTML files with
+    # find and replace, changing every tagname back to proper sanitized
+    # Unicode tagnames.
+    ######################################################################
     
     backtick='`'
     newline=$'\n'
+    headerid="0"
+    sedargs=""
     
     rmdfiles=`ls -1 | grep -iE '\.rmd'`
     while IFS= read -r rmdfile
@@ -64,27 +73,33 @@ do
                 headerunsignaled=`sed -e "s/{[ \t]\{0,\}-[ \t]\{0,\}}[ \t]\{0,\}$//g" <<< "$fileline"`
                 headername=`sed -e "s/^((#)|(##))//g" <<< "$headerunsignaled"`
                 sanitizedname=`sed -e "s/^\(\(#\)\|\(##\)\)//g" -e "s/[#\\\/?!.<>${backtick}',()&@%^$~{}+=;:\"|\*\x00-\x1F]//g" -e "s/\[//g" -e "s/]//g" -e "s/^[ \t]\+//g" -e "s/[ \t]\+$//g" -e "s/[ \t]\+/-/g" -e "s/[-]\+/-/g" -e "s/[[:upper:]]*/\L&/g" <<< "$headername"`
+                headerid=$((headerid+1))
                 if [ $headerisunnumbered = 0 ]
                 then
-                    newheader="$headerunsignaled {#${sanitizedname}}"
+                    newheader="$headerunsignaled {#headerplaceholder${headerid}id}"
                 else
-                    newheader="$headerunsignaled {-#${sanitizedname}}"
+                    newheader="$headerunsignaled {-#headerplaceholder${headerid}id}"
                 fi
                 newfilecontent+="$newheader$newline"
+                sedargs+="-e s/headerplaceholder${headerid}id/${sanitizedname}/g "
             else
                 newfilecontent+="$fileline$newline"
             fi
         done <<< "$filecontent"
         echo "$newfilecontent" > "$rmdfile"
     done <<< "$rmdfiles"
-    
-    ####################################
-    # End of Rename the markdown headers
-    ####################################
-
-
 
     Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+
+    shopt -s globstar
+    for file in _book/**
+    do
+        if [ -f "$file" ]
+        then
+            sed -i $sedargs "$file"
+        fi
+    done
+
     cp -r _book/* ../../_book/$lang/
     cd $buildpath
 done
