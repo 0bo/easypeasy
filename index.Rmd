@@ -59,8 +59,6 @@ EasyPeasy is available in multiple languages.
 - فارسی / ([pdf](translations/easypeasy_fa.pdf))
 - [한국어](ko) / ([pdf](ko/easypeasy.pdf))
 
-[Want to help translating?](translations/howtotranslate.pdf)
-
 ![Cover Image](images/easypeasy.png){width=45% height=45%}
 
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3](https://drive.google.com/file/d/1eU5mB7WXuknAMTgeITsF2MZmAEKG5aFE/view) | [MP3 (uncut)](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
