@@ -58,6 +58,7 @@ EasyPeasy is available in multiple languages.
 - العربية / ([pdf](translations/easypeasy_ar.pdf))
 - فارسی / ([pdf](translations/easypeasy_fa.pdf))
 - [한국어](ko) / ([pdf](ko/easypeasy.pdf))
+- [हिन्दी](hi-IN) / ([pdf](hi-IN/easypeasy.pdf))
 
 ![Cover Image](images/easypeasy.png){width=45% height=45%}
 
