@@ -35,7 +35,7 @@ favicon: "favicon.ico"
 description: "बिना किसी ज़बरदस्ती या बलिदान के, आसानी से तुरंत ही पोर्न छोंंड़।"
 ---
 
-# ईज़ी-पीज़ी क्या है
+# EasyPeasy क्या है
 
 ![Cover Image](images/easypeasy.png){width=45% height=45%}
 
