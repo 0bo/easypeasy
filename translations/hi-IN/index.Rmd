@@ -1,0 +1,225 @@
+---
+title: "EasyPeasy"
+author: "[English (original) by Hackauthor²](..) <br/> Hindi translation by **Himanshu Sharma**"
+lang: hi
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: sans
+        size: 2
+      edit: "https://gitlab.com/snuggy/easypeasy/-/blob/master/translations/hi-IN/%s"
+    includes:
+      in_header: header.html
+    fig_caption: false
+  pdf_document:
+    includes:
+      in_header: preamble.tex
+      toc: true
+      number_sections: true
+      fig_caption: false
+      latex_engine: xelatex
+
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+url: 'https\://easypeasymethod.org/'
+cover-image: "images/easypeasy.png"
+apple-touch-icon: "touch-icon.png"
+apple-touch-icon-size: 120
+favicon: "favicon.ico"
+description: "बिना किसी ज़बरदस्ती या बलिदान के, आसानी से तुरंत ही पोर्न छोंंड़।"
+---
+
+# EasyPeasy क्या है
+
+![Cover Image](images/easypeasy.png){width=45% height=45%}
+
+<span style="font-size:xx-large;">सारे Chapters पढ़ना, स्किप मत करना</span>
+
+य॓ open-source किताब तुमको porn तुरंत, बिना इच्छाशक्ति (will power) या sacrifice की feeling के, हमेशा के लिए बंद करने में capable बना देगी। ना कोई judge करेगा, ना ही कोई शर्मिंदा करेगा, और ना ही कोई painful experiment होगा।
+
+एक बात बताउं, किताब पढने के दोरान porn बंद करने की भी जरुरत नहीं है, चालू राखो। बंद या कम करने से ये method काम नहीं करेगा ।
+
+हो सकता है कि तुम इस ख्याल से डरे हुए हो, या तुम भी उन [लाखों लोगों](https://old.reddit.com/r/nofap) [में से एक](https://old.reddit.com/r/pornfree) हो जो [porn छोड़ने](https://rebootnation.org) का [try](https://yourbrainrebalanced.com) कर रहे हैं। शायद ये method तुमको बताई, सुनी, और पढी बातों के उलट लगे। पर आज तक कुछ काम नहीं कीया? कीया होता, तो हम ये किताब न पढ़ रहे होते।
+
+शायद इन सवालों से relate कर पओ:
+
+-   जितना कभी सोचा नहीं था, क्या उस्से जयादा समय porn देखते हो?
+
+-   क्या porn बंद या कम करने की कोशिश म॓ं success मिली कभी?
+
+-   क्या porn म॓ं बर्बाद हूए समय की वजह से, personal या professional commitments, hobbies या relationships पर असर पड़ा?
+
+-   क्या porn देखने की आदत को सबसे छुपाते हो (जैसे browser history delete करना, porn देखने के बारे में झूठ बोलना)?
+
+-   क्या porn देखने से intimate relationship(s) में problem हुई?
+
+-   क्या तुम porn देखने से पहले और देखते समय arousal और pleasure होता है, पर बाद म॓ं शर्म, guilt होता है?
+
+-   क्या हर समय porn के बारे में सोचते हो, चाहे देखो या नहिं?
+
+-   क्या कोई और negative effect हे porn का,तुम्हारे personality या professional life पर (जैसे काम ना करना, खराब performance, neglected relationships, financial problems)?
+
+अगर तुम porn पर masturbation, sex, या  *किसी और reason से*  *dependent हो*, तो फ़िर आगे पढो।
+अगर किसी प्रियजन के लिए पढ रहे हो, तो उसे ये book खुद पढ़ने के लिए बोलो। पर अगर वो नहीं माने, तो खुद ही पढो।
+इस किताब को पढने से तुम अपने बच्चौ को porn शुरु करने से रोक पाओगे। ये ना समझना कि उन्को porn का access नही हे -- सबको access होता हे, तभी तो लत लगती हे।
+
+## किताब के बारे में{-}
+
+ये किताब pornography के लिए *एलन कैर के EasyWay to Quit Smoking* के [पुनर्लेखन](https://sites.google.com/site/hackbookeasypeasy) का पुनर्लेखन है, ये free और open-source है, और CC-BY-SA liscensed है। Success होने के लिये:
+
+<span style="font-size:xx-large;">सारे Chapters पढ़ना, स्किप मत करना</span>
+
+combination locke खोलते समय, सही order में numbers डालने होते हैं। लत/Addiction भी ऐसे हि हे।
+
+Personally, [original Google Sites वर्जन](https://sites.google.com/site/hackbookeasypeasy)(जो मैंने नहीं लिखी) ने मेरी life change कर दी।  ज्यादातर लोगों की तरह, तुमने भी काफी young age में porn को discover किया होगा और तब से देख रहे होगे। बाद में जब इसके dangers के बारे में warning वाली पढ़ी — जो थोड़ी censored भी हे — तब तक बहुत देर हो चुकी थी। मेरी तरह, तुमहारे भी porn ना देखने के streaks रहे होंगे, लेकिन आखिरकार फेक urges के आगे तुम झुक गए होगे। मैं खुशी से बता सकता हूं कि ये तरीका बिल्कुल अलग है, और यही एकमात्र तरीका है जो वाकई में काम करता है।
+
+हो सकता है कि किसी ने चिंता में आकर ये book share की है और तुम थोड़े skeptical हो। सबसे पहले, thanks कि तुम इसे एक chance तो दिया। थोड़ी देर में मैं detail में बात करेंगे, लेकिन पहले याद करो पहली बार जब porn देखा था। क्या कभी सोचा था कि ये life का permanent part बन जाएगा? मैंने अपने दोस्तों से पूछकर जो informal study की है (उन्हें ये book पढ़ने के लिए force किया), उससे पता चला है कि EasyPeasy उतना ही effective है casual porn users के लिए जितना heavy addiction वालों के लिए। ये book ज़्यादा लंबी नहीं है, और इससे बहुत फायदा हो सकता है, इसलिए मेरी request है कि इसे पूरा पढ़ना।
+
+इस hackbook में जो method बताया गया है, वो है:
+
+-   एक दम instant.
+
+-   Heavy user और casual user, दोनों के लिए बराबर effective।
+
+-   इससे कोई बुरे withdrawal symptoms नहीं होते।
+
+-   इसमें willpower की ज़रूरत नहीं पड़ती।
+
+-   इसमें किसी shock treatment, किसी और से मदद, या नौटंकी की ज़रूरत नहीं है।
+
+-   इससे इस addiction को दूसरी addictions से replace नहीं करेंगे, जैसे कि overeating, smoking या drinking.
+
+-   Ye permanent solution है।
+
+शायद ये believe करना मुश्किल लग रहा होगा, लेकिन बहुत सारे लोग इसी बात को confirm करते हैं।
+
+
+
+> *"Porn addiction के बारे में ye sabse seminal book है।"*
+>
+> --- Reddit पर किसी ने लिखा था, शायद उन्होंने pun intentionally नहीं किया था।
+
+> "*मैं 10 साल से addicted था। उन 10 सालों में depression, doubt, anxiety से totally disturb था, और हमेशा डर लगा रहता था कि कहीं मेरा secret बाहर ना आ जाए। हर बार, मैं खुद से नफरत करता था, और हर porn diet के बाद वापस slide करके नीचे पहुंच जाता था। लेकिन इस book ने मुझे रोक दिया। पहले मैं हमेशा porn से defensive रहता था। अब इस book को दो बार पढ़ने के बाद, मैं offensive mode में हूं। अब porn का मुझ पर कोई control नहीं है और ये एक sad joke की तरह लगती है।*"
+>
+> --- u/DeepNewt
+
+> "*कुछ दिन पहले मैं 20 का हुआ। बहुत लंबे time के बाद, पहली बार मैंने अपना birthday porn trap से free होकर celebrate किया, और ये सब इस book की वजह से possible हुआ जो मुझे कुछ महीने पहले randomly मिल गई। इससे पहले, मैंने traditional तरीकों से quit करने में बहुत time waste किया, और बहुत mental stress झेला और खुद को permanently addict मान लिया था। इस book ने सब solve कर दिया। पहले जहां मुझे लगता था कि मेरा अपने ऊपर कोई control नहीं है, वहीं अब मैं proud feel करता हूं ये जानकर कि मुझे अब addict बने रहने की ज़रूरत नहीं है।*
+>
+> *मैं ये post किसी specific कारण से नहीं कर रहा, बस feel हुआ कि इसे अपने दिमाग से निकालकर कहीं share करना चाहिए क्योंकि ये मेरे लिए बहुत important है। अगर आप ये पढ़ रहे हैं और book पढ़ने या recommend करने के बारे में सोच रहे हैं, तो मेरी तरफ से एक confirmation है कि ये किसी भी दूसरे method से better work करती है। मेरी सबसे बड़ी tip है कि notes ले लें, थोड़ा funny लगेगा, लेकिन इससे मुझे concepts समझने में help मिली।*"
+>
+> --- u/Suspicious_Web_4594
+
+> "*एकदम solid*"
+>
+> --- anon, /fit/
+
+## Warning
+
+अगर तुम्हें लग रहे हैं कि ये book health issues के बारे में `डरा` कर quit करवाएगी, जैसे कि sexual dysfunction (जेसे porn से erectile dysfunction शामिल है), unreliable arousal, sex partners में interest की कमी, दिमाग hypofrontality, या फिर ये बोलेगी कि ये एक गंदी habit है और तुम बेवकूफ, कमज़ोर इरादों वाले इंसान हैं, तो ऐसा नहीं हे। ये tactics मुझे कभी छोड़ने में मदद नहीं की, और अगर ये कारगर होती, तो तुम अब तक छोड़न चुके होते।
+
+Quit करने के general तरीकों में willpower use करने या 'porn-diet' की substitution हैं, जैसे कि '*कुछ दिन* में बस एक बार देखना' या धीरे-धीरे कम देखना। कुछ websites neurotransmitters और neuroplasticity के बारे में peer-reviewed research share करती हैं, और हालांकि ये sites informative हैं, बहुत से लोग health risks के बारे में जानते हुए भी कुछ नहीं करते, बल्कि ऐसी information से बचते हैं। End में, ये सारे methods ineffective हैं क्योंकि ये porn use करने की असल कारणों को handle ही नहीं करते। आखिरकार, किसी चीज़ को मना करके उसे और ज़्यादा attractive बना देना addiction देगा, जो कि सही इलाज नहीं है।
+
+देखो, ये EasyPeasy का तरीका कुछ हटके है। हो सकता है कि अभी जो मैं बताने वाला हूं, वो सुनकर बकवास लगे। लेकिन जब पूरी book पढ़ लोगे, तो न सिर्फ आप इन बातों को मानेंगे, बल्कि सोचेंगे कि "अरे, मैं कैसा चूतिया था!"
+
+एक misconception है कि हम अपनी मर्जी से porn देखते हैं। Porn के नशेड़ी (हां, नशेड़ी) उतनी ही मर्जी से porn देखते हैं जितनी मर्जी से लोग शराबी बनते हैं, या अफ़ीम के आदी लोग अफ़ीमची बनते हैं। हां, हम खुद laptop या smartphone on करते हैं, browser खोलते हैं, और अपने favorite 'online कोथे' पर जाते हैं। कभी-कभी मैं cinema जाता हूं, लेकिन मैंने कभी ये तो नहीं सोचा था कि अपनी पूरी life cinema hall में ही बिता दूंगा। शुरुआत में, curiosity और human nature मुझे वहां ले गया, लेकिन अगर मुझे पता होता कि मैं इसका addict हो जाऊंगा और इससे मेरी health, खुशी, और relationships का बंटाधार हो जाएगा, तो मैं कभी शुरू ही नहीं करता। *"काश, पहली बार जब मैंने उस porn site पर visit किया था, तब ही मुझे sexual dysfunction के बारे में पता चल गया होता!"*
+
+एक minute रुक कर सोचो, क्या कभी तुमने ये 'positive' decision लिया था कि masturbate करने के लिए porn की जरूरत है? या फिर ये कि partner के साथ sex को spice up करने के लिए आपको porn से inspire होने की जरूरत है? या फिर, life के कुछ phases में, आपको लगा कि अच्छी नींद तो क्या, office की hard day के बाद शाम भी porn के बिना नहीं कट सकती? या फिर concentration और stress handle करने के लिए भी इसकी जरूरत पड़ने पड़गी? किस point पर आपने decide किया कि आपको porn की जरूरत है, कि ये आपकी ज़िंदगी का permanent हिस्सा बन गया है, और अब तो बिना इसके आप insecure feel करते हैं, या घबड़ाहट में आ जाते हैं?
+
+हर porn user की तरह, आप भी इस दुनिया के सबसे खतरनाक और चालाक फंदे में फंस गए हैं, जो nature और insaan ने मिलकर बनाया है। दुनिया में एक भी इंसान ऐसा नहीं है, चाहे वो खुद user हो या नहीं, जो ये सोच कर खुश होगा कि उसके बच्चे तनाव handle करने या मज़े के लिए porn देख रहे हैं। इसीलिये हर addict यही चाहता है कि काश उसने कभी शुरू ही न किया होता। इसमें हैरानी वाली कोई बात नहीं है: लत लगने से पहले किसी को भी ज़िंदगी में मज़े करने या तनाव handle करने के लिए porn की जरूरत नहीं होती।
+
+और साथ ही हर user चाहता है कि वो इसे continue करता रहे। आखिर कोई जबरदस्ती तो नहीं कि हम browser का incognito mode on करें। चाहे वो reason समझें या न समझें, अपनी favorite online कोठे पर जाने का decision हम खुद ही लेता है।
+
+अगर कोई अलादीन का चिराग होता जिसे रगड़ने से कल ऐसे उठो जैसे पहली porn site देखी ही न हो, तो कल से सिर्फ वही लोग addict होते जो अभी 'trial' या 'experiment' वाले phase में हैं।
+
+भाई असली problem है **डर!** बस यही एक चीज़ है जो हमें रोके हुए है। डर किस बात का? कि अगर porn छोड़ा तो न जाने कितने दिन तक दुःख दुःखी रहूंगा, तड़प झेलनी पड़ेगी, craving से लड़ना पड़ेगा। ये सारा डर कुछ फालतू beliefs से आता है, जो या तो दूसरों से सीखे हैं या खुद के दिमाग की उपज हैं, जैसे:
+
+-   Orgasm के लिए masturbation या sex ही life की एकमात्र और सबसे important चीज़ है।
+
+-   Real life में तो कोई reject कर सकता है, porn 'safe' है real-life sex से
+
+-   Porn देखो, knowledge बढ़ाओ, फायदा ही फायदा है।
+
+-   मुझे तो premium quality का sex experience चाहिए, मेरा हक़ है।
+
+-   और ज्यादा देखूंगा, उतना ही मज़ा आएगा।
+
+इन चक्कर में और भी कई फालतू चीज़ें निकलती है, जैसे:
+
+-   कोई 'एकदम मस्त' video मिल जाए तो दिन-रात उसी के सपने देखना, जैसे लॉटरी लग गई हो।
+
+-   अगर sex नहीं मिला तो खुद को loser समझना, जैसे life में और कुछ important ही नहीं है।
+
+-   Perfect figure वाली के चक्कर में पड़े रहना।
+
+-   हर लड़की/लड़के में कमियां ढूंढते रहना, जैसे खुद तो perfect हों।
+
+-   Mood हो या न हो, बस sex करना है करना है।
+
+डर लगता है कि अकेली रात कट नहीं पाएगी, बस desires से लड़ते रहेंगे। डर लगता है कि exam से पहले की रात बिना porn के जहन्नुम बन जाएगी। डर लगता है कि बिना इस सहारे के न तो concentrate कर पाएंगे, न stress handle कर पाएंगे, न confident रह पाएंगे, और हमारी personality और character भी बदल जाएगी।
+
+लेकिन सबसे बड़ा डर है कि 'एक बार addict तो हमेशा addict': कि हम कभी पूरी तरह free नहीं हो पाएंगे, और ज़िंदगी भर कभी न कभी porn देखकर orgasm पाने की craving होती रहेगी। और अगर मेरी तरह तुमने भी quit करने के सारे normal तरीके try कर लिए हैं, और willpower method की मार झेल चुके हो, तो न सिर्फ ये डर तुम्हारे अंदर घर कर चुका होगा, बल्कि तुम्हें पक्का यकीन हो गया होगा कि तुम कभी छोड़ पाओगे ही नहीं।
+
+अगर तुम डरे हुए हो, पैनिक में हो, या लग रहा है कि अभी quit करने का right time नहीं है, तो एक बात समझ लो - ये डर porn से दूर नहीं होता - ये डर तो porn की वजह से ही है। तुमने जान-बूझकर तो इस trap में नहीं फंसे थे, लेकिन हर trap की तरह ये भी इसलिए बना है कि तुम इसमें फंसे रहो। अपने आप से पूछो, पहली बार जब देखा था, तब क्या सोचा था कि ज़िंदगी भर इसी के गुलाम बने रहोगे? तो कब छोड़ोगे? कल? अगले साल? बस करो ये बकवास! ये trap तो life भर के लिए बना है। वरना क्या सोचते हो, बाकी सब addicts क्यों नहीं छोड़ पाते जब तक कि उनकी life पूरी तरह चौपट नहीं हो जाती?
+
+याद है वो अलादीन का चिराग; EasyPeasy वैसे ही है। एक बात साफ कर दूं, EasyPeasy कोई जादू-टोना नहीं है, लेकिन मेरे लिए और बाकी लोगों के लिए जिन्होंने इससे इतनी आसानी से और मजे से quit किया, ये अलादीन का चिराग ही लगता है!
+
+चेतावनी ये है:
+ये मुर्गी पहले या अंडा पहले वाली situation है: हर addict छोड़ना चाहता है और हर addict आसानी से और बिना टेंशन के छोड़ सकता है। बस एक डर की वजह से लोग छोड़ने की कोशिश नहीं करते। सबसे बड़ी जीत है इस डर से freedom पाना, लेकिन ये डर तब तक नहीं जाएगा जब तक तुम ये पूरी book नहीं पढ़ लेते। उल्टा, जैसे-जैसे तुम आगे पढ़ोगे, शायद ये डर और बढ़ेगा, और हो सकता है इसी डर की वजह से तुम book पूरी न कर पाओ। एक लड़की का comment देखो:
+
+***“भाई अभी-अभी EasyPeasy खत्म की है। चार दिन ही हुए हैं, पर क्या बताऊं, एकदम झक्कास फील हो रहा है। पक्का पता है, अब कभी porn की तरफ मुड़ के भी नहीं देखूंगी। वैसे पांच महीने पहले भी try मारा था book पढ़ने का, पर आधे में ही मेरी फट गई। समझ में आ गया था कि आगे पढ़ा तो छोड़ना ही पड़ेगा। मैं कितनी बेवकूफ थी?”***
+
+तुम इस trap में जान-बूझकर तो नहीं फंसे थे, लेकिन एक बात साफ समझ लो: जब तक तुम पक्का decide नहीं करोगे, इस दलदल से नहीं निकाल सकता। हो सकता है तुम अभी छोड़ने के लिए बेताब हो, या फिर छोड़ने का ख्याल आते ही तुम्हारी फट रही हो, लेकिन दोनों ही cases में याद रखो: **तुम्हारा कुछ जाने वाला नहीं है!**
+
+अगर book खत्म करने के बाद भी तुम्हें लगता है कि तुम masturbation या sex के लिए porn use करना continue करना चाहते हो, तो कोई नहीं रोक रहा है तुम्हें। book पढ़ते वक्त भी तुम्हें porn कम करने या बंद करने की जरूरत नहीं है, और याद रखो, यहां कोई डराने-धमकाने वाली बात नहीं है। उल्टा, मेरे पास तो सिर्फ good news ही good news है। सोचो कैसा feel हुआ होगा Andy Dufresne को जब वो आखिरकार Shawshank Prison से आज़ाद हुआ? वैसा ही feel हुआ था मुझे जब मैं इस porn के जेल से निकला, और यही feel करते हैं वो सब लोग जिन्होंने EasyPeasy से छुटकारा पाया। book खत्म करने तक तुम भी यही feel करोगे! लग जा काम पे!
+
+## एक आखरी बात... {-}
+
+porn छोड़ना कोई rocket science नहीं है, हर कोई मस्ती-मस्ती में छोड़ सकता है, तू भी! बस एक काम कर, दिमाग के सारे झाड़-झंखाड़ साफ करके ये book पढ़: जितना समझेगा, उतना ही सरल लगेगा। और भाई, कुछ समझ न आए तब भी कोई टेंशन नहीं, instructions पर चल, बस easy होगा। सबसे बड़ी बात - तू ज़िंदगी भर porn के लिए रोता नहीं फिरेगा, न ही ऐसा लगेगा कि life में कुछ कम पड़ गया। और जब book खत्म करेगा न, तो बस एक ही बात तेरी समझ से बाहर होगी - कि इतने टाइम तक ये चक्कर में क्यों फंसा रहा!
+
+EasyPeasy में fail होने के सिर्फ दो ही reasons हैं।
+
+**Instructions follow न करना।**
+कुछ लोगों को irritate करेगा कि ये book कुछ recommendations के बारे में इतनी strict है, जैसे कि धीरे-धीरे कम करने या substitutes use करने की मनाही। मैं ये नहीं कहता कि ऐसे tricks से किसी ने छोड़ा ही नहीं, पर उन्होंने इन tricks की वजह से नहीं, बल्कि इनके बावजूद छोड़ा है। कुछ लोग hammock पर खड़े होकर भी sex कर लेते हैं, हो तो जाएगा, पर ये कौन सा easy तरीका हुआ?। इस lock खोलने के password इस book में हैं, लेकिन step by step करना पड़ेगा: एक chapter से दूसरी chapter पर जाओ और कोई chapter skip मत करो।
+
+**समझ में न आना।**
+कोई भी बात यूं ही मान मत लो, हर चीज़ पर सवाल करो - जो मैं बता रहा हूं उस पर भी, और अपनी सोच पर भी, और जो समाज ने sex, internet porn, और addiction के बारे में सिखाया है उस पर भी। मिसाल के तौर पर, जो लोग मानते हैं कि ये सिर्फ एक habit है, खुद से पूछो कि दूसरी habits - जिनमें से कुछ मज़ेदार भी होती हैं - छोड़ना इतना आसान क्यों है, जबकि ये habit जो बेकार feel कराती है, energy, time और मर्दानगी बर्बाद करती है, उसे छोड़ना इतना मुश्किल क्यों है? जो सोचते हैं कि तुम्हें porn से मज़ा आता है, अपने से पूछो - बाकी चीज़ें जो इससे हज़ार गुना ज्यादा मज़ेदार हैं, उनको हम ऐसे ही skip कर देते हैं। तो फिर ये porn क्यों जरूरी हो जाती है? जब porn नहीं मिलती तो panic क्यों आ जाता है?
+
+EasyPeasy तुम्हें बताने वाला है कि porn छोड़ना कितना easy और मज़े की बात है। मेरी तरह और भी बहुत लोगों के लिए, porn के trap से निकलना life की सबसे बड़ी जीत में से एक है। depressed होने की कोई जरूरत नहीं है, उल्टा, तुम वो करने वाले हो जो दुनिया का हर porn user करना चाहता है: **आज़ादी!**
+
+**याद रखो, कोई भी CHAPTER SKIP मत करना।**
+
+Some terms before you begin:
+***PMO***: Porn देखना, मुठ्ठी मारना, और orgasm का चक्कर।
+***Online कोठा***:porn वाली sites।
+
+## पढ़ने के लिए tips, और कुछ छोटी-मोटी बातें
+
+**इस book को normal book की तरह मत पढ़ो**, ये बहुत छोटी है, और तुम इसे दो-तीन घंटे में खत्म कर सकते हो। ज्यादातर लोगों को *highlight करना या notes लेना* फायदेमंद लगता है, और आम तौर पर सबका यही कहना है कि इसे कई बार **दोबारा पढ़ना** चाहिए ताकि सारी बातें अच्छी तरह दिमाग में बैठ जाएं।
+
+ackbook क्यों? क्योंकि Allen Carr तो बहुत पहले गुजर चुके हैं और उनकी institutions internet porn addiction का इलाज नहीं करतीं। मुझे इससे एक फूटी कौड़ी भी नहीं मिलती
+
+इस book में तीन लोग मिलकर तुम्हारी मदद करेंगे - मैं, original Hackauthor, और Allen Carr। ताकि तुम्हें एक unique और दमदार method मिल सके जिससे तुम आसानी से और बिना किसी दर्द के छुटकारा पा सको।
+
+<span style="font-size:smaller;">**Hackbook:** किसी और की book का जुगाड़ करके बनाई गई नई book. चोरी-छिपे नहीं, original author का पूरा नाम है इसमें। </span>
+
+Hackbook के लिए कई communities भी हैं, लेकिन मेरी सलाह है कि उन्हें तब check करो जब book पूरी पढ़ ली हो।
+
+[urbit](https://urbit.org) - ~racnec-palren/hello | [coomer meme archive](https://coomer.org) ) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [feedback form](https://forms.gle/p7cTxowaNpKqgi5Z7)
+
+एक बार फिर याद करा दूं:: <span style="font-size:larger;">**CHAPTERS SKIP मत करना बिल्कुल भी**</span>
+
+मैं तुम्हें good luck बोलता, लेकिन जैसा कि तुम जल्द ही जान जाओगे, तुम्हें इसकी जरूरत ही नहीं है।
+
+जय हिन्द,
+
+Hackauthor²
+
+![Creative Commons License Image](images/cc.png){width=88 height=31}
+
+ये काम [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) के तहत licensed है। Code [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE) के तहत है।
