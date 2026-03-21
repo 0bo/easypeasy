@@ -3,6 +3,7 @@
 # Install fonts
 cp Arial.ttf /usr/local/share/fonts/
 cp Dotum.ttf /usr/local/share/fonts/
+apt-get install -y fonts-noto-cjk
 fc-cache -fv
 fc-list
 
@@ -15,7 +16,7 @@ Rscript -e "bookdown::render_book('index.Rmd', 'all')"
 
 # Build EasyPeasy translations
 buildpath=`pwd`
-langs="de it sv ru so ro sq nl pt-br pl ko uk"
+langs="de it sv ru so ro sq nl pt-br pl ko uk zh"
 for lang in $langs
 do
     mkdir -p _book/$lang
