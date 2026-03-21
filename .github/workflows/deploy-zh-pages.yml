@@ -31,18 +31,8 @@ jobs:
           mkdir -p _book
 
           # Replace the `r Sys.Date()` placeholder with today's date
-          python3 - <<'PYEOF'
-import re
-from datetime import datetime
-
-with open('index.Rmd', 'r', encoding='utf-8') as f:
-    content = f.read()
-
-today = datetime.now().strftime('%Y-%m-%d')
-content = re.sub(r'`r\s+Sys\.Date\(\)`', today, content)
-with open('/tmp/index_fixed.Rmd', 'w', encoding='utf-8') as f:
-    f.write(content)
-PYEOF
+          TODAY=$(date +%Y-%m-%d)
+          sed "s/\`r Sys\.Date()\`/${TODAY}/g" index.Rmd > /tmp/index_fixed.Rmd
 
           # Collect chapter files in numeric order
           chapters=$(printf '%s\n' [0-9]*.Rmd 2>/dev/null | sort)

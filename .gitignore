@@ -47,3 +47,7 @@ _book
 # System files
 *.DS_Store
 
+# Build test output directories
+*/_book_test/
+_book_test/
+
