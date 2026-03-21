@@ -5,3 +5,28 @@
 </script> -->
 
 <script async defer data-domain="easypeasymethod.org" src="https://plausible.io/js/plausible.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var btn = document.createElement("a");
+  btn.id = "back-to-top";
+  btn.href = "#";
+  btn.title = "Back to top";
+  btn.innerHTML = "&#8679;";
+  document.body.appendChild(btn);
+
+  window.addEventListener("scroll", function() {
+    if (window.scrollY > 200) {
+      btn.classList.add("visible");
+    } else {
+      btn.classList.remove("visible");
+    }
+  });
+
+  btn.addEventListener("click", function(e) {
+    e.preventDefault();
+    var prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    window.scrollTo({ top: 0, behavior: prefersReducedMotion ? "auto" : "smooth" });
+  });
+});
+</script>
