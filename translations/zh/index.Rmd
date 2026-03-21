@@ -3,7 +3,7 @@ title: "轻松戒色"
 author: "[英文原版](..) 由 Hackauthor²著 <br/> 中文翻译"
 date: "`r Sys.Date()`"
 lang: zh-CN
-mainfont: Arial
+mainfont: Noto Sans CJK SC
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
