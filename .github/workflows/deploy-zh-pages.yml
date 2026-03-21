@@ -45,6 +45,8 @@ jobs:
             -s \
             --toc \
             --toc-depth=2 \
+            --number-sections \
+            --include-in-header header.html \
             --metadata title="轻松戒色" \
             --metadata lang=zh-CN \
             --css=style.css \
