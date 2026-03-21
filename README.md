@@ -1,4 +1,4 @@
-# EasyPeasy
+# [EasyPeasy](https://gitlab.com/snuggy/easypeasy)
 
 Git repository for EasyPeasy, adapting *Allen Carr's EasyWay to Stop Smoking* for porn addiction.
 
