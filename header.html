@@ -4,7 +4,7 @@
  });
 </script> -->
 
-<script async defer data-domain="read.easypeasymethod.org" src="https://plausible.io/js/plausible.js"></script>
+<script async defer data-domain="easypeasymethod.org" src="https://plausible.io/js/plausible.js"></script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
@@ -31,8 +31,8 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
   /* ── Collapsible sidebar toggle ── */
-  var book = document.querySelector(".book");
-  if (!book) return;
+  var toc = document.querySelector("nav#TOC");
+  if (!toc) return;
 
   // Create toggle button
   var toggle = document.createElement("button");
@@ -42,29 +42,40 @@ document.addEventListener("DOMContentLoaded", function() {
   toggle.innerHTML = "&#9776;";
   document.body.appendChild(toggle);
 
-  // Restore saved state (default: show sidebar)
+  // Detect small-screen default: sidebar hidden unless explicitly saved as visible
+  var isSmallScreen = window.matchMedia("(max-width: 768px)").matches;
   var saved = localStorage.getItem("sidebar-visible");
-  if (saved === "false") {
-    book.classList.remove("with-summary");
-    toggle.innerHTML = "&#10095;";
+
+  if (isSmallScreen) {
+    if (saved === "true") {
+      document.body.classList.add("sidebar-visible");
+      document.body.classList.remove("sidebar-hidden");
+      toggle.innerHTML = "&#9776;";
+    } else {
+      document.body.classList.remove("sidebar-visible");
+      toggle.innerHTML = "&#10095;";
+    }
   } else {
-    book.classList.add("with-summary");
-    toggle.innerHTML = "&#9776;";
+    if (saved === "false") {
+      document.body.classList.add("sidebar-hidden");
+      toggle.innerHTML = "&#10095;";
+    } else {
+      document.body.classList.remove("sidebar-hidden");
+      toggle.innerHTML = "&#9776;";
+    }
   }
 
   toggle.addEventListener("click", function() {
-    var isOpen = book.classList.toggle("with-summary");
-    localStorage.setItem("sidebar-visible", isOpen ? "true" : "false");
-    toggle.innerHTML = isOpen ? "&#9776;" : "&#10095;";
-  });
-
-  // Keep the existing gitbook toolbar toggle in sync
-  var gitbookToggle = document.querySelector(".toggle-sidebar");
-  if (gitbookToggle) {
-    gitbookToggle.addEventListener("click", function() {
-      var isOpen = book.classList.contains("with-summary");
+    var smallScreen = window.matchMedia("(max-width: 768px)").matches;
+    if (smallScreen) {
+      var isOpen = document.body.classList.toggle("sidebar-visible");
       localStorage.setItem("sidebar-visible", isOpen ? "true" : "false");
-    });
-  }
+      toggle.innerHTML = isOpen ? "&#9776;" : "&#10095;";
+    } else {
+      var isHidden = document.body.classList.toggle("sidebar-hidden");
+      localStorage.setItem("sidebar-visible", isHidden ? "false" : "true");
+      toggle.innerHTML = isHidden ? "&#10095;" : "&#9776;";
+    }
+  });
 });
 </script>
