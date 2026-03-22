@@ -8,6 +8,7 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
+  /* ── Back-to-top button ── */
   var btn = document.createElement("a");
   btn.id = "back-to-top";
   btn.href = "#";
@@ -27,6 +28,54 @@ document.addEventListener("DOMContentLoaded", function() {
     e.preventDefault();
     var prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     window.scrollTo({ top: 0, behavior: prefersReducedMotion ? "auto" : "smooth" });
+  });
+
+  /* ── Collapsible sidebar toggle ── */
+  var toc = document.querySelector("nav#TOC");
+  if (!toc) return;
+
+  // Create toggle button
+  var toggle = document.createElement("button");
+  toggle.id = "sidebar-toggle";
+  toggle.title = "Toggle table of contents";
+  toggle.setAttribute("aria-label", "Toggle table of contents");
+  toggle.innerHTML = "&#9776;";
+  document.body.appendChild(toggle);
+
+  // Detect small-screen default: sidebar hidden unless explicitly saved as visible
+  var isSmallScreen = window.matchMedia("(max-width: 768px)").matches;
+  var saved = localStorage.getItem("sidebar-visible");
+
+  if (isSmallScreen) {
+    if (saved === "true") {
+      document.body.classList.add("sidebar-visible");
+      document.body.classList.remove("sidebar-hidden");
+      toggle.innerHTML = "&#9776;";
+    } else {
+      document.body.classList.remove("sidebar-visible");
+      toggle.innerHTML = "&#10095;";
+    }
+  } else {
+    if (saved === "false") {
+      document.body.classList.add("sidebar-hidden");
+      toggle.innerHTML = "&#10095;";
+    } else {
+      document.body.classList.remove("sidebar-hidden");
+      toggle.innerHTML = "&#9776;";
+    }
+  }
+
+  toggle.addEventListener("click", function() {
+    var smallScreen = window.matchMedia("(max-width: 768px)").matches;
+    if (smallScreen) {
+      var isOpen = document.body.classList.toggle("sidebar-visible");
+      localStorage.setItem("sidebar-visible", isOpen ? "true" : "false");
+      toggle.innerHTML = isOpen ? "&#9776;" : "&#10095;";
+    } else {
+      var isHidden = document.body.classList.toggle("sidebar-hidden");
+      localStorage.setItem("sidebar-visible", isHidden ? "false" : "true");
+      toggle.innerHTML = isHidden ? "&#10095;" : "&#9776;";
+    }
   });
 });
 </script>
