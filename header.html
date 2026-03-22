@@ -8,6 +8,7 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
+  /* ── Back-to-top button ── */
   var btn = document.createElement("a");
   btn.id = "back-to-top";
   btn.href = "#";
@@ -28,5 +29,42 @@ document.addEventListener("DOMContentLoaded", function() {
     var prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     window.scrollTo({ top: 0, behavior: prefersReducedMotion ? "auto" : "smooth" });
   });
+
+  /* ── Collapsible sidebar toggle ── */
+  var book = document.querySelector(".book");
+  if (!book) return;
+
+  // Create toggle button
+  var toggle = document.createElement("button");
+  toggle.id = "sidebar-toggle";
+  toggle.title = "Toggle table of contents";
+  toggle.setAttribute("aria-label", "Toggle table of contents");
+  toggle.innerHTML = "&#9776;";
+  document.body.appendChild(toggle);
+
+  // Restore saved state (default: show sidebar)
+  var saved = localStorage.getItem("sidebar-visible");
+  if (saved === "false") {
+    book.classList.remove("with-summary");
+    toggle.innerHTML = "&#10095;";
+  } else {
+    book.classList.add("with-summary");
+    toggle.innerHTML = "&#9776;";
+  }
+
+  toggle.addEventListener("click", function() {
+    var isOpen = book.classList.toggle("with-summary");
+    localStorage.setItem("sidebar-visible", isOpen ? "true" : "false");
+    toggle.innerHTML = isOpen ? "&#9776;" : "&#10095;";
+  });
+
+  // Keep the existing gitbook toolbar toggle in sync
+  var gitbookToggle = document.querySelector(".toggle-sidebar");
+  if (gitbookToggle) {
+    gitbookToggle.addEventListener("click", function() {
+      var isOpen = book.classList.contains("with-summary");
+      localStorage.setItem("sidebar-visible", isOpen ? "true" : "false");
+    });
+  }
 });
 </script>
