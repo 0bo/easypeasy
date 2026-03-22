@@ -36,6 +36,7 @@ vignettes/*.pdf
 # Output data
 *.Rda
 *.pdf
+!easypeasy.pdf
 *.csv
 _book/*.html
 *.ignore
