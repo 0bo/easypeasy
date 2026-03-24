@@ -1,0 +1,120 @@
+remote_theme: jasongrimes/jekyll-chapterbook
+
+title: 轻松戒色
+longtitle: 轻松戒色 — 无需意志力，立即永久戒除色情
+author: Hackauthor²
+description: >
+  无需意志力或剥夺感、牺牲感，立即无痛苦地戒除色情。
+  基于亚伦·卡尔《这书能让你戒烟》改编的开源书籍。
+
+lang: zh-CN
+
+# Canonical URL for SEO
+baseurl_canonical: https://0bo.github.io/easypeasy
+
+# Copyright notice at the bottom of each page
+copyright:
+  start_year: 2020
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+
+# Favicon
+favicon_path: assets/images/easypeasy.png
+
+#
+# Navigation
+#
+
+bookcrumbs:
+  book_url: /introduction.html
+  contents_url: /contents.html
+  book_icon: assets/images/easypeasy.png
+
+# Links shown above the TOC in the sidebar
+sidebar_nav_top:
+- label: 轻松戒色
+  url: /introduction.html
+
+# Links shown below the TOC in the sidebar
+sidebar_nav_bottom:
+- label: English Version
+  url: https://easypeasymethod.org/
+- label: GitHub
+  url: https://github.com/0bo/easypeasy
+
+# Navigation shown at the bottom of the page
+bottom_nav:
+- label: 首页
+  url: /introduction.html
+- label: 目录
+  url: /contents.html
+- label: English
+  url: https://easypeasymethod.org/
+- label: GitHub
+  url: https://github.com/0bo/easypeasy
+
+# Chapter headings as TOC in each chapter
+in_chapter_toc:
+  enabled: true
+  h_min: 2
+  h_max: 3
+
+# Sidebar TOC sub-navigation
+sidebar_toc:
+  enabled: false
+  h_min: 2
+  h_max: 3
+
+# GitHub edit link
+github_edit:
+  enabled: true
+  base_url: https://github.com/0bo/easypeasy/edit/master/
+
+# Show drafts in dev
+show_drafts_in_dev: false
+
+page_width: 860px
+
+destination: ./_site
+incremental: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - easypeasy.pdf
+  - translations
+  - .gitlab-ci.yml
+  - tmp
+
+plugins:
+  - jekyll-readme-index
+
+collections:
+  chapters:
+    output: true
+  pages:
+    output: true
+    permalink: /:slug:output_ext
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+      permalink: /:slug:output_ext
+
+# Markdown
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  input: GFM
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    guess_lang: true
+    css_class: highlight
+markdown_ext: markdown,mkdown,mkdn,mkd,md
