@@ -32,9 +32,23 @@ jobs:
           # Collect chapter markdown files in numeric order (front, main, back)
           chapters=$(find _chapters -name '*.md' | sort)
 
+          # Preprocess markdown: convert Jekyll absolute image paths (/assets/...)
+          # to relative paths (assets/...) so pandoc can resolve them from repo root
+          tmpdir=$(mktemp -d)
+          trap "rm -rf '$tmpdir'" EXIT
+          processed=""
+          i=0
+          for f in $chapters; do
+            outfile="$tmpdir/$(printf '%05d' $i).md"
+            sed 's|/assets/|assets/|g' "$f" > "$outfile"
+            processed="$processed $outfile"
+            i=$((i + 1))
+          done
+
           # Generate PDF — pandoc strips YAML front matter automatically
-          pandoc $chapters \
+          pandoc $processed \
             -o easypeasy.pdf \
+            --resource-path=. \
             -f markdown+smart \
             --toc \
             --toc-depth=2 \
