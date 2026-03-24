@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - '*.Rmd'
+      - '_chapters/**'
       - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
 
@@ -29,15 +29,11 @@ jobs:
 
       - name: Build PDF
         run: |
-          # Replace the `r Sys.Date()` placeholder with today's date
-          TODAY=$(date +%Y-%m-%d)
-          sed "s/\`r Sys\.Date()\`/${TODAY}/g" index.Rmd > /tmp/index_fixed.Rmd
+          # Collect chapter markdown files in numeric order (front, main, back)
+          chapters=$(find _chapters -name '*.md' | sort)
 
-          # Collect chapter files in numeric order
-          chapters=$(printf '%s\n' [0-9]*.Rmd 2>/dev/null | sort)
-
-          # Generate PDF with table of contents from all chapters.
-          pandoc /tmp/index_fixed.Rmd $chapters \
+          # Generate PDF — pandoc strips YAML front matter automatically
+          pandoc $chapters \
             -o easypeasy.pdf \
             -f markdown+smart \
             --toc \

@@ -80,7 +80,11 @@ incremental: false
 exclude:
   - Gemfile
   - Gemfile.lock
+  - LICENSE
   - README.md
+  - easypeasy.pdf
+  - translations
+  - .gitlab-ci.yml
   - tmp
 
 plugins:
