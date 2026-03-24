@@ -52,3 +52,9 @@ _book
 */_book_test/
 _book_test/
 
+# Jekyll build artifacts
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/Gemfile.lock
+

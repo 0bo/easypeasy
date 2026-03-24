@@ -1,4 +1,4 @@
-name: Build and Deploy Book to GitHub Pages
+name: Build PDF
 
 on:
   push:
@@ -6,10 +6,6 @@ on:
       - master
     paths:
       - '*.Rmd'
-      - 'style.css'
-      - 'header.html'
-      - 'images/**'
-      - 'resources/**'
       - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
 
@@ -17,7 +13,7 @@ permissions:
   contents: write
 
 jobs:
-  build-and-deploy:
+  build-pdf:
     runs-on: ubuntu-latest
 
     steps:
@@ -31,36 +27,14 @@ jobs:
           sudo apt-get update -y
           sudo apt-get install -y pandoc fonts-noto-cjk texlive-xetex texlive-lang-chinese
 
-      - name: Build book
+      - name: Build PDF
         run: |
-          mkdir -p _book
-
           # Replace the `r Sys.Date()` placeholder with today's date
           TODAY=$(date +%Y-%m-%d)
           sed "s/\`r Sys\.Date()\`/${TODAY}/g" index.Rmd > /tmp/index_fixed.Rmd
 
           # Collect chapter files in numeric order
           chapters=$(printf '%s\n' [0-9]*.Rmd 2>/dev/null | sort)
-
-          # Build the book as a single HTML page using Pandoc.
-          # Pandoc handles Chinese anchor IDs natively, no post-processing needed.
-          pandoc /tmp/index_fixed.Rmd $chapters \
-            -o _book/index.html \
-            -f markdown+smart \
-            -s \
-            --toc \
-            --toc-depth=2 \
-            --number-sections \
-            --include-in-header header.html \
-            --metadata title="轻松戒色" \
-            --metadata lang=zh-CN \
-            --css=style.css \
-            --highlight-style=pygments
-
-          # Copy static assets to the output directory.
-          cp style.css _book/
-          [ -e images ] && cp -rL images _book/
-          [ -e resources ] && cp -rL resources _book/
 
           # Generate PDF with table of contents from all chapters.
           pandoc /tmp/index_fixed.Rmd $chapters \
@@ -74,14 +48,6 @@ jobs:
             --pdf-engine=xelatex \
             -V CJKmainfont="Noto Sans CJK SC" \
             -V geometry="a4paper, margin=2cm"
-
-      - name: Deploy to gh-pages branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_book
-          publish_branch: gh-pages
-          force_orphan: true
 
       - name: Commit PDF to repository root
         run: |
