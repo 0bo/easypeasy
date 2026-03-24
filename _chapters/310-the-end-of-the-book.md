@@ -41,7 +41,7 @@ slug: the-end-of-the-book
 
 - 首先，**到处使用Coomer表情包。**
 
-![coomer meme](/assets/images/coomer.png)
+![coomer meme](assets/images/coomer.png)
 
 我在 <https://coomer.org> 上有数千个Coomer表情包，希望你尽可能地转发。
 
@@ -51,7 +51,7 @@ slug: the-end-of-the-book
 
 - **创造对话**
 
-![local impact checklist](/assets/images/checklist.png)
+![local impact checklist](assets/images/checklist.png)
 
 遵循这份清单的人将实际上创造一场关于色情和其他被正常化成瘾的全球对话，实际上使数亿人能够戒除。
 

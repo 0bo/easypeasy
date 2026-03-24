@@ -7,8 +7,6 @@ slug: introduction
 
 - [english](https://easypeasymethod.org/)
 
-<img src="/assets/images/easypeasy.png" alt="封面图片" style="width:45%;height:45%">
-
 <span style="font-size:xx-large;">请勿跳章阅读</span>
 
 这本开源书籍将帮助你立即、无痛苦、永久地戒除色情，无需意志力，也没有任何剥夺感或牺牲感。它不会做出任何评判、让你尴尬，也不会施压让你采取痛苦的措施。
@@ -191,6 +189,6 @@ slug: introduction
 
 Hackauthor²
 
-<img src="/assets/images/cc.png" alt="知识共享许可证图片" style="width:88;height:31">
+<img src="assets/images/cc.png" alt="知识共享许可证图片" style="width:88;height:31">
 
 本作品采用[知识共享署名-相同方式共享4.0国际许可证](https://creativecommons.org/licenses/by-sa/4.0/)进行许可。代码是[GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE)。
