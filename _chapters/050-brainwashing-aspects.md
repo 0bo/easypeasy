@@ -85,4 +85,4 @@ slug: brainwashing-aspects
 
 说清楚这一点——不是网络色情和后宫居民的特别，而是那个场合本身的特别。一旦对色情的需求被消除，这些场合将变得更加愉快，有压力的情况也会减少压力。
 
-![图片——消除洗脑](/assets/images/trap-resolved.png)
+![图片——消除洗脑](assets/images/trap-resolved.png)
