@@ -15,7 +15,7 @@ baseurl_canonical: https://0bo.github.io/easypeasy
 # Copyright notice at the bottom of each page
 copyright:
   start_year: 2020
-  url: /introduction.html
+  url: https://creativecommons.org/licenses/by-sa/4.0/
 
 # Favicon
 favicon_path: assets/images/easypeasy.png
@@ -112,5 +112,5 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     guess_lang: true
-syntax_highlighter_style: colorful
+    css_class: highlight
 markdown_ext: markdown,mkdown,mkdn,mkd,md
