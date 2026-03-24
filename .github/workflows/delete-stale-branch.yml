@@ -1,0 +1,29 @@
+name: Delete stale branch
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch name to delete'
+        required: true
+        default: 'copilot/fix-blank-pages-86-88'
+
+permissions:
+  contents: write
+
+jobs:
+  delete-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete branch
+        run: |
+          branch="${{ github.event.inputs.branch }}"
+          # Validate branch name: only allow alphanumeric, hyphens, slashes, dots, and underscores
+          if ! echo "$branch" | grep -qE '^[a-zA-Z0-9_./\-]+$'; then
+            echo "Error: invalid branch name '$branch'"
+            exit 1
+          fi
+          gh api "repos/${{ github.repository }}/git/refs/heads/$branch" \
+            --method DELETE
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
