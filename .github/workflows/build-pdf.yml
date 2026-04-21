@@ -6,7 +6,7 @@ on:
       - master
     paths:
       - '_chapters/**'
-      - '.github/workflows/deploy-pages.yml'
+      - '.github/workflows/build-pdf.yml'
   workflow_dispatch:
 
 permissions:
